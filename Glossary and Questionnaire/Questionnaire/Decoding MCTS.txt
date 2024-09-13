@@ -226,3 +226,9 @@ Ans- MCTS narrows the gap between human and computer performance by effectively 
 
 (-------------------------------------------------------------------------)
 
+39- What is the significance of domain knowledge in MCTS?
+
+Ans- MCTS requires little to no domain-specific knowledge, making it effective in a wide range of problems.
+
+(-------------------------------------------------------------------------)
+
