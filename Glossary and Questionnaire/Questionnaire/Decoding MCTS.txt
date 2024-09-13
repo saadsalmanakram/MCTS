@@ -22,3 +22,9 @@ Ans- The Selection step involves traversing the tree from the root node to selec
 
 (-------------------------------------------------------------------------)
 
+5- What happens during the Expansion step of MCTS?
+
+Ans- A new child node is added to the tree at the node selected during the Selection step.
+
+(-------------------------------------------------------------------------)
+
