@@ -838,3 +838,9 @@ Ans- It involves backing up known game-theoretic values during backpropagation t
 
 (------------------------------------------------------------------------)
 
+140- How does backing up game-theoretic values affect MCTS?
+
+Ans- It provides accurate reward estimates for non-terminal states, improving the overall search quality.
+
+(------------------------------------------------------------------------)
+
