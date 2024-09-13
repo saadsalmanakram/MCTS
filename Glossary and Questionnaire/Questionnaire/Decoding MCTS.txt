@@ -1164,3 +1164,9 @@ Ans- UCT was used for the behavior of dogs in Dead-End, showing better performan
 
 (------------------------------------------------------------------------)
 
+194- How did MCTS address Dynamic Difficulty Adjustment (DDA) in games?
+
+Ans- MCTS was used to dynamically adjust difficulty levels by varying simulation times, showing how difficulty can impact performance in real-time games.
+
+(------------------------------------------------------------------------)
+
