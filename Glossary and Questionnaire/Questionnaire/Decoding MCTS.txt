@@ -208,3 +208,9 @@ Ans- MCTS assigns infinite value to unexplored nodes, ensuring each node gets vi
 
 (-------------------------------------------------------------------------)
 
+36- How does MCTS work in game simulation?
+
+Ans- MCTS simulates possible game moves, evaluates the outcomes, and updates the tree to reflect the results, often used in board games like Go and Chess.
+
+(-------------------------------------------------------------------------)
+
