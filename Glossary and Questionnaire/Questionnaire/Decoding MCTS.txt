@@ -46,3 +46,21 @@ Ans- The UCB formula helps balance exploration and exploitation by evaluating no
 
 (-------------------------------------------------------------------------)
 
+9- Why is MCTS particularly useful for games with large search spaces?
+
+Ans- MCTS effectively explores large and complex search spaces without requiring exhaustive exploration, making it suitable for strategic games with vast possibilities.
+
+(-------------------------------------------------------------------------)
+
+10- How does MCTS handle games with imperfect or unknown information?
+
+Ans- MCTS relies on statistical sampling rather than complete knowledge, making it adaptable to scenarios with incomplete information.
+
+(-------------------------------------------------------------------------)
+
+11- What is the exploration-exploitation trade-off in MCTS?
+
+Ans- It’s the balance between exploring new and potentially better moves and exploiting known promising moves to optimize decision-making.
+
+(-------------------------------------------------------------------------)
+
