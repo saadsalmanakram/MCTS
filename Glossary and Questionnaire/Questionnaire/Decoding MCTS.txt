@@ -370,3 +370,9 @@ Ans- MCTS excels when there are no reliable heuristics, especially in games with
 
 (-------------------------------------------------------------------------)
 
+63- In what type of game tree structures does UCT outperform minimax?
+
+Ans- UCT outperforms minimax in bounded trees with a single optimal action per state.
+
+(-------------------------------------------------------------------------)
+
