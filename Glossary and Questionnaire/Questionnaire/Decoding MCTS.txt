@@ -16,3 +16,9 @@ Ans- Selection, Expansion, Simulation, and Backpropagation.
 
 (-------------------------------------------------------------------------)
 
+4- What is the purpose of the Selection step in MCTS?
+
+Ans- The Selection step involves traversing the tree from the root node to select the most promising child node using the Upper Confidence Bound (UCB) formula.
+
+(-------------------------------------------------------------------------)
+
