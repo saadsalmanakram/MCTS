@@ -876,3 +876,9 @@ Ans- Score Bounded MCTS uses optimistic and pessimistic bounds on a node's score
 
 (------------------------------------------------------------------------)
 
+146- How do optimistic and pessimistic bounds function in Score Bounded MCTS?
+
+Ans- These bounds help prove nodes by narrowing the range of possible scores, thus optimizing action selection and improving efficiency in games like Go and Connect Four.
+
+(------------------------------------------------------------------------)
+
