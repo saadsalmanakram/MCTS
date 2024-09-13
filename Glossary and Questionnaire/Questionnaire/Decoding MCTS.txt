@@ -844,3 +844,9 @@ Ans- It provides accurate reward estimates for non-terminal states, improving th
 
 (------------------------------------------------------------------------)
 
+141- What is Proof-Number Search (PNS) and how is it used in MCTS?
+
+Ans- PNS is a technique for proving game-theoretic values by prioritizing nodes that can be proven with the fewest children; it's used in MCTS to enhance the game tree exploration by proving game states.
+
+(------------------------------------------------------------------------)
+
