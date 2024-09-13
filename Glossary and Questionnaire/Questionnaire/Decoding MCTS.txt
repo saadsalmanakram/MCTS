@@ -250,3 +250,9 @@ Ans- A POMDP is a decision-making model where the agent cannot fully observe the
 
 (-------------------------------------------------------------------------)
 
+43- What is the advantage of MCTS over depth-limited minimax search?
+
+Ans- MCTS does not require intermediate state evaluations, only the value of terminal states after simulations.
+
+(-------------------------------------------------------------------------)
+
