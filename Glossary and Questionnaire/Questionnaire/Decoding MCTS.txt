@@ -688,3 +688,9 @@ Ans- It generalizes stochastic bandits to overcome the discrete action limitatio
 
 (------------------------------------------------------------------------)
 
+115- What is the purpose of First Play Urgency (FPU) in MCTS?
+
+Ans- It scores unvisited nodes to encourage early exploitation.
+
+(------------------------------------------------------------------------)
+
