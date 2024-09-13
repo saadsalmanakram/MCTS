@@ -1110,3 +1110,15 @@ Ans- NMCS enhanced the solution by exploring more possible moves, leading to hig
 
 (------------------------------------------------------------------------)
 
+185- What role did AMAF heuristic play in solving Morpion Solitaire?
+
+Ans- The AMAF heuristic helped improve move selection efficiency by storing and reusing results from similar moves, contributing to achieving a record of 146 moves.
+
+(------------------------------------------------------------------------)
+
+186- How did Nested Rollout Policy Adaptation (NRPA) contribute to crossword puzzle construction?
+
+Ans- NRPA was used to maximize word usage per puzzle, improving the design of crossword puzzles by exploring more possibilities in the construction process.
+
+(------------------------------------------------------------------------)
+
