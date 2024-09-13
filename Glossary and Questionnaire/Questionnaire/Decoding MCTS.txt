@@ -1,0 +1,12 @@
+1- What is Monte Carlo Tree Search (MCTS)?
+
+Ans- MCTS is a heuristic search algorithm that combines Monte Carlo methods with tree-based search techniques to handle complex decision-making and game-playing scenarios.
+
+(-------------------------------------------------------------------------)
+
+2- How does MCTS differ from traditional search algorithms?
+
+Ans- Unlike traditional algorithms that exhaustively explore the search space, MCTS uses random sampling and statistical evaluation to focus on promising areas of the search space.
+
+(-------------------------------------------------------------------------)
+
