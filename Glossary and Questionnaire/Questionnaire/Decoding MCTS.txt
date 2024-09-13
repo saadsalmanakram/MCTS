@@ -604,3 +604,9 @@ Ans- UCTSATcp (random assignment), UCTSATsbs (sequential assignment), and UCTSAT
 
 (-------------------------------------------------------------------------)
 
+101- What is ρUCT?
+
+Ans- ρUCT generalizes UCT by approximating a finite horizon expectimax operation using a sparse search tree of decision and chance nodes.
+
+(-------------------------------------------------------------------------)
+
