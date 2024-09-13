@@ -628,3 +628,9 @@ Ans- MRW-LTS extends Monte Carlo Random Walks by concentrating on local search m
 
 (-------------------------------------------------------------------------)
 
+105- What is the MHSP algorithm?
+
+Ans- MHSP is a planning algorithm that replaces random simulations in MCTS with heuristic evaluations and uses average rewards for node selection.
+
+(-------------------------------------------------------------------------)
+
