@@ -912,3 +912,9 @@ Ans- Absolute Pruning keeps only the most visited action, while Relative Pruning
 
 (------------------------------------------------------------------------)
 
+152- How does pruning with domain knowledge enhance MCTS performance?
+
+Ans- Pruning with domain knowledge removes inferior moves based on specific game insights, leading to significant performance improvements in programs like LINGO and MOHEX.
+
+(------------------------------------------------------------------------)
+
