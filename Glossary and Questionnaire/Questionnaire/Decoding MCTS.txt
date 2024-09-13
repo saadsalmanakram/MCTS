@@ -352,3 +352,9 @@ Ans- MCTS handles large branching factors effectively, where minimax struggles w
 
 (-------------------------------------------------------------------------)
 
+60- What is the trade-off of using domain-specific knowledge in MCTS?
+
+Ans- Domain-specific knowledge reduces the number of simulations but also decreases result variance.
+
+(-------------------------------------------------------------------------)
+
