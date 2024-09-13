@@ -580,3 +580,9 @@ Ans- Both share concepts like tree structure and exploration driven by random ac
 
 (-------------------------------------------------------------------------)
 
+97- What is the UNLEO algorithm?
+
+Ans- UNLEO is a UCT-based heuristic approximation of an optimal optimization algorithm, grounded in NFL and CFL theorems.
+
+(-------------------------------------------------------------------------)
+
