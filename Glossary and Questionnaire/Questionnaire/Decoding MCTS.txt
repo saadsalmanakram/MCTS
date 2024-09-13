@@ -424,3 +424,9 @@ Ans- FUSE adapts UCT to the combinatorial optimization problem of feature select
 
 (-------------------------------------------------------------------------)
 
+72- What is Multi-Agent MCTS?
+
+Ans- Multi-Agent MCTS extends the standard MCTS by using multiple simulation policies, improving search space exploration.
+
+(-------------------------------------------------------------------------)
+
