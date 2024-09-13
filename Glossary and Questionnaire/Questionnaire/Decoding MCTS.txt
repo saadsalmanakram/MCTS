@@ -1044,3 +1044,9 @@ Ans- Tree parallelisation involves multiple threads performing MCTS simulations 
 
 (------------------------------------------------------------------------)
 
+174- Describe the UCT-Treesplit approach in MCTS parallelisation.
+
+Ans- UCT-Treesplit distributes both work and memory load evenly across multiple computational nodes in distributed memory systems.
+
+(------------------------------------------------------------------------)
+
