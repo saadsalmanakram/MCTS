@@ -900,3 +900,9 @@ Ans- Progressive Unpruning gradually reintroduces moves that were initially prun
 
 (------------------------------------------------------------------------)
 
+150- How does Progressive Widening differ from Progressive Unpruning?
+
+Ans- Progressive Widening controls the expansion of child nodes in MCTS based on the number of visits, helping balance exploration and exploitation in continuous or stochastic problems.
+
+(------------------------------------------------------------------------)
+
