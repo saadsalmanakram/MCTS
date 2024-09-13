@@ -184,3 +184,9 @@ Ans- MCTS doesn't need specific domain knowledge and only relies on legal moves 
 
 (-------------------------------------------------------------------------)
 
+32- What is asymmetric tree growth in MCTS?
+
+Ans- MCTS grows the tree more in promising areas, focusing on regions that seem more relevant based on previous results.
+
+(-------------------------------------------------------------------------)
+
