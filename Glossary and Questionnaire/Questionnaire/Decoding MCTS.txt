@@ -1212,3 +1212,9 @@ Ans- It incorporates "fog of war," where players only see their own pieces, requ
 
 (-------------------------------------------------------------------------)
 
+202- How does MCTS handle the hidden information in games like Dou Di Zhu?
+
+Ans- By using information sets to store and utilize rollout statistics for indistinguishable game states.
+
+(-------------------------------------------------------------------------)
+
