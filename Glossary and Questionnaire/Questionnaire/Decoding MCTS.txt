@@ -1008,3 +1008,16 @@ Ans- Weighting simulation results gives more importance to later and shorter sim
 
 (------------------------------------------------------------------------)
 
+168- How does the score bonus enhancement modify the backpropagation process in MCTS?
+
+Ans- It backpropagates rewards in a range [0, γ] for losses and [γ, 1] for wins to differentiate between strong and weak wins.
+
+(------------------------------------------------------------------------)
+
+169- What is the decaying reward modification in MCTS backpropagation?
+
+Ans- It multiplies the reward value by a constant 0<γ≤1 to weight early wins more heavily than later ones.
+
+(------------------------------------------------------------------------)
+
+
