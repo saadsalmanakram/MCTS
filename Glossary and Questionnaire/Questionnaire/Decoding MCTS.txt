@@ -358,3 +358,9 @@ Ans- Domain-specific knowledge reduces the number of simulations but also decrea
 
 (-------------------------------------------------------------------------)
 
+61- How does MCTS lead to asymmetric tree growth?
+
+Ans- MCTS favors more promising nodes, leading to a skewed, asymmetric tree over time.
+
+(-------------------------------------------------------------------------)
+
