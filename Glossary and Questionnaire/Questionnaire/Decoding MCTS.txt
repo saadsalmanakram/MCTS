@@ -1134,3 +1134,9 @@ Ans- CADIAPLAYER is an MCTS-based GGP agent that won the AAAI GGP competitions i
 
 (------------------------------------------------------------------------)
 
+189- How did ARY improve upon CADIAPLAYER’s performance in GGP?
+
+Ans- ARY used nested Monte Carlo search and transposition tables to improve performance, winning the 2009 and 2010 AAAI GGP competitions.
+
+(------------------------------------------------------------------------)
+
