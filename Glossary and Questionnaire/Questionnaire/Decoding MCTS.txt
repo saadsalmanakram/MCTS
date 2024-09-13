@@ -406,3 +406,9 @@ Ans- Combining MCTS with TDL allows leveraging heuristic value functions to impr
 
 (-------------------------------------------------------------------------)
 
+69- What is Single-Player MCTS (SP-MCTS)?
+
+Ans- SP-MCTS adds a third term to the UCB formula to manage variance in single-player games.
+
+(-------------------------------------------------------------------------)
+
