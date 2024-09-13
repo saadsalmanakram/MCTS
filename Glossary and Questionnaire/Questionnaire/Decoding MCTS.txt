@@ -1080,3 +1080,9 @@ Ans- Metrics include win rate, Elo ratings, iterations per second, and memory us
 
 (------------------------------------------------------------------------)
 
+180- What is a playout in MCTS?
+
+Ans- A playout is a simulation of a game from a given node to a terminal state to estimate the value of that node.
+
+(------------------------------------------------------------------------)
+
