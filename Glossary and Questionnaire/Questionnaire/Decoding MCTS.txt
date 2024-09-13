@@ -118,4 +118,9 @@ Ans- Overfitting occurs when MCTS becomes too specialized in the early simulatio
 
 (-------------------------------------------------------------------------)
 
+21- How does MCTS balance exploration and exploitation?
+
+Ans- MCTS uses the Upper Confidence Bound (UCB) formula, which prioritizes both high-value nodes (exploitation) and unexplored nodes (exploration).
+
+(-------------------------------------------------------------------------)
 
