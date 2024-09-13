@@ -490,3 +490,9 @@ Ans- MMCTS builds separate trees for each player, updating them simultaneously t
 
 (-------------------------------------------------------------------------)
 
+83- What is UCT+ and how does it differ from regular UCT?
+
+Ans- UCT+ replaces opponent decision nodes with chance nodes and selects actions based on reward averages and standard errors.
+
+(-------------------------------------------------------------------------)
+
