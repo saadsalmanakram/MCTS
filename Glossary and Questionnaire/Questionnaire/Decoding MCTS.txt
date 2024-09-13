@@ -364,3 +364,9 @@ Ans- MCTS favors more promising nodes, leading to a skewed, asymmetric tree over
 
 (-------------------------------------------------------------------------)
 
+62- Why might MCTS outperform minimax in certain domains?
+
+Ans- MCTS excels when there are no reliable heuristics, especially in games with large trees and fewer trap states.
+
+(-------------------------------------------------------------------------)
+
