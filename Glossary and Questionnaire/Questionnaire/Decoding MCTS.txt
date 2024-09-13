@@ -1241,3 +1241,10 @@ Ans- UCT-based node selection shows promising results compared to traditional so
 Ans- A nested Monte Carlo search algorithm with time windows is used to address the problem.
 
 (-------------------------------------------------------------------------)
+
+207- How does MCTS apply to the sailing domain problem?
+
+Ans- UCT scales better for increasing problem size than techniques like asynchronous realtime dynamic programming.
+
+(-------------------------------------------------------------------------)
+
