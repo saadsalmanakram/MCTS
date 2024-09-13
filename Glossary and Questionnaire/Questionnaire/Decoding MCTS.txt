@@ -894,3 +894,9 @@ Ans- Soft pruning removes moves that may be revisited later, while hard pruning 
 
 (------------------------------------------------------------------------)
 
+149- What is Progressive Unpruning and how does it benefit MCTS?
+
+Ans- Progressive Unpruning gradually reintroduces moves that were initially pruned, ensuring that all moves are eventually considered, improving search efficiency and performance.
+
+(------------------------------------------------------------------------)
+
