@@ -1122,3 +1122,9 @@ Ans- NRPA was used to maximize word usage per puzzle, improving the design of cr
 
 (------------------------------------------------------------------------)
 
+187- How does MCTS handle Sudoku and Kakuro puzzles?
+
+Ans- MCTS was used to solve Sudoku and Kakuro puzzles more efficiently than traditional methods, with faster solution rates for larger puzzles.
+
+(------------------------------------------------------------------------)
+
