@@ -664,3 +664,9 @@ Ans- They are central to node selection in the tree policy and help balance expl
 
 (------------------------------------------------------------------------)
 
+111- What does the UCB1-Tuned algorithm modify in the UCB1 formula?
+
+Ans- It tunes the upper confidence bound by incorporating variance.
+
+(------------------------------------------------------------------------)
+
