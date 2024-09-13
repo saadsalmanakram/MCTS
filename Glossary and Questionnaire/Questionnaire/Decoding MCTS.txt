@@ -592,3 +592,9 @@ Ans- The complexity of evaluating objective functions is tackled by using UCT to
 
 (-------------------------------------------------------------------------)
 
+99- What is UCTSAT?
+
+Ans- UCTSAT applies UCT to solve satisfiability problems in conjunctive normal form (CNF) using various assignment strategies.
+
+(-------------------------------------------------------------------------)
+
