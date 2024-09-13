@@ -870,3 +870,9 @@ Ans- MC-PNS combines proof-number search with Monte Carlo simulations to evaluat
 
 (------------------------------------------------------------------------)
 
+145- What is Score Bounded MCTS and how does it improve the search process?
+
+Ans- Score Bounded MCTS uses optimistic and pessimistic bounds on a node's score to converge to the estimated score and reduce simulations by focusing on nodes with defined bounds.
+
+(------------------------------------------------------------------------)
+
