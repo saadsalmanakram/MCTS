@@ -310,3 +310,9 @@ Ans- Regret is the difference between the expected reward of the best action and
 
 (-------------------------------------------------------------------------)
 
+53- What is the Upper Confidence Bound (UCB) in bandit algorithms?
+
+Ans- UCB is a strategy that balances exploration and exploitation by selecting the action with the highest upper confidence bound on its reward.
+
+(-------------------------------------------------------------------------)
+
