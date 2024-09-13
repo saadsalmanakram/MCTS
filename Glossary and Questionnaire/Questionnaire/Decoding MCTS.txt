@@ -532,3 +532,8 @@ Ans- The two versions are Quasi Best-First (exploitation-focused) and Beta Distr
 
 (-------------------------------------------------------------------------)
 
+89- How does Meta-MCTS improve MOGO's performance in Go?
+
+Ans- By generating better opening books using nested MCTS, Meta-MCTS enhances the playing strength of MOGO in 9×9 Go.
+
+(-------------------------------------------------------------------------)
