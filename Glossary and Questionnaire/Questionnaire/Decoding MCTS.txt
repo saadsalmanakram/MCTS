@@ -256,3 +256,9 @@ Ans- MCTS does not require intermediate state evaluations, only the value of ter
 
 (-------------------------------------------------------------------------)
 
+44- What are some key domains where MCTS is applied?
+
+Ans- MCTS is widely used in games, planning, optimization, and real-world decision-making problems.
+
+(-------------------------------------------------------------------------)
+
