@@ -196,3 +196,10 @@ Ans- The rapid growth of the search tree after several iterations requires signi
 
 (-------------------------------------------------------------------------)
 
+34- What is the role of UCB (Upper Confidence Bound) in MCTS?
+
+Ans- UCB helps in selecting the best node by balancing between nodes with high-value returns and unexplored nodes.
+
+(-------------------------------------------------------------------------)
+
+ 
