@@ -1200,3 +1200,9 @@ Ans- Handling imperfect information and fixed coalitions.
 
 (-------------------------------------------------------------------------)
 
+200- How does MCTS apply to non-deterministic games like Urban Rivals?
+
+Ans- By extending UCT to manage hidden information and simultaneous moves, improving performance over plain UCT.
+
+(-------------------------------------------------------------------------)
+
