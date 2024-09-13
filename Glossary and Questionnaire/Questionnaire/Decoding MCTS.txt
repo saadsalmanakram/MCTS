@@ -274,3 +274,8 @@ Ans- Progressive bias guides the search by incorporating heuristic knowledge to 
 
 (-------------------------------------------------------------------------)
 
+47- How does MCTS differ from traditional minimax algorithms?
+
+Ans- MCTS uses random sampling to explore the search space, whereas minimax evaluates every possible move up to a certain depth.
+
+(-------------------------------------------------------------------------)
