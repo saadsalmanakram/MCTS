@@ -322,3 +322,9 @@ Ans- UCB1 combines the average reward of an arm with an exploration term that sc
 
 (-------------------------------------------------------------------------)
 
+55- Why is UCB1 effective for bandit problems?
+
+Ans- It provides a logarithmic bound on regret and ensures a balance between trying new actions and exploiting known high-reward actions.
+
+(-------------------------------------------------------------------------)
+
