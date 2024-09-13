@@ -966,3 +966,9 @@ Ans-  FAST extracts game features to learn their importance and bias simulations
 
 (------------------------------------------------------------------------)
 
+161- How can history heuristics be applied to simulations in MCTS?
+
+Ans- History heuristics use historical performance of moves to guide simulation choices, potentially improving effectiveness by reusing successful moves from past simulations.
+
+(------------------------------------------------------------------------)
+
