@@ -340,3 +340,9 @@ Ans- It balances the exploration-exploitation tradeoff efficiently and leads to 
 
 (-------------------------------------------------------------------------)
 
+58- What makes MCTS an aheuristic algorithm?
+
+Ans- MCTS does not require domain-specific knowledge, making it adaptable across various domains.
+
+(-------------------------------------------------------------------------)
+
