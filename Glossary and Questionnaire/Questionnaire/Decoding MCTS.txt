@@ -1002,3 +1002,9 @@ Ans- Patterns detect specific board configurations to guide simulations, making 
 
 (------------------------------------------------------------------------)
 
+167- What is the purpose of weighting simulation results in MCTS?
+
+Ans- Weighting simulation results gives more importance to later and shorter simulations, which tend to be more accurate.
+
+(------------------------------------------------------------------------)
+
