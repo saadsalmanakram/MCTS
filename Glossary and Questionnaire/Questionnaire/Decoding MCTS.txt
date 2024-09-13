@@ -856,3 +856,9 @@ Ans- Non-terminal states are proven wins if at least one child is a proven win, 
 
 (------------------------------------------------------------------------)
 
+143- How does MCTS-Solver integrate PNS with UCB selection?
+
+Ans- MCTS-Solver uses PNS to prove game values and applies normal UCB selection if the parent node is visited enough times; otherwise, a simulation policy guides node selection.
+
+(------------------------------------------------------------------------)
+
