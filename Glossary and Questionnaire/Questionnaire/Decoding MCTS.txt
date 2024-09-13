@@ -1218,3 +1218,9 @@ Ans- By using information sets to store and utilize rollout statistics for indis
 
 (-------------------------------------------------------------------------)
 
+203- What was a surprising finding in using expectimax versus determinization for strategy fusion in card games?
+
+Ans- Expectimax was found to be more beneficial than having a perfect opponent model.
+
+(-------------------------------------------------------------------------)
+
