@@ -646,3 +646,9 @@ Ans- Domain Independent and Domain Dependent.
 
 (-------------------------------------------------------------------------)
 
+108- What characterizes domain-independent MCTS enhancements?
+
+Ans- They can be applied to any domain without prior knowledge and typically offer small improvements.
+
+(-------------------------------------------------------------------------)
+
