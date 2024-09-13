@@ -112,3 +112,10 @@ Ans- Techniques such as variance reduction, progressive widening, and more effic
 
 (-------------------------------------------------------------------------)
 
+20- What is overfitting in the context of MCTS?
+
+Ans- Overfitting occurs when MCTS becomes too specialized in the early simulations, leading to suboptimal decisions. Techniques like exploration bonuses can help mitigate this.
+
+(-------------------------------------------------------------------------)
+
+
