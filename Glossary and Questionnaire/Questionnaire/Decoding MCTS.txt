@@ -70,3 +70,9 @@ Ans- MCTS can handle complex games, adapt to imperfect information, learn from s
 
 (-------------------------------------------------------------------------)
 
+13- What are some disadvantages of MCTS?
+
+Ans- MCTS can require significant memory, be computationally expensive, suffer from high variance, and face challenges in balancing exploration and exploitation.
+
+(-------------------------------------------------------------------------)
+
