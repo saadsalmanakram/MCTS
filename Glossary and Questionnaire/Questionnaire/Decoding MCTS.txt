@@ -772,3 +772,9 @@ Ans- It leverages past move data to improve action selection and simulation poli
 
 (------------------------------------------------------------------------)
 
+129- What are the two levels of the history heuristic?
+
+Ans- The tree-tree level and the tree-playout level.
+
+(------------------------------------------------------------------------)
+
