@@ -802,3 +802,9 @@ Ans- AMAF updates statistics for all actions encountered during a simulation as 
 
 (------------------------------------------------------------------------)
 
+134- How does α-AMAF differ from standard AMAF?
+
+Ans- α-AMAF blends UCT and AMAF scores, adjusting α to balance their contributions.
+
+(------------------------------------------------------------------------)
+
