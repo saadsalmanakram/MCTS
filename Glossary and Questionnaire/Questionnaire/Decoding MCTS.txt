@@ -990,3 +990,9 @@ Ans- LGR stores successful responses to moves and reuses them in future simulati
 
 (------------------------------------------------------------------------)
 
+165- How does the Last Good Reply with Forgetting (LGRF) enhancement differ from LGR?
+
+Ans- LGRF adds "forgetting" by removing stored replies that lead to losses in recent simulations, aiming to refine and adapt the simulation policy over time.
+
+(------------------------------------------------------------------------)
+
