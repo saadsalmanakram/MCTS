@@ -148,3 +148,9 @@ Ans- These are two-player games with perfect information, such as chess, Go, or 
 
 (-------------------------------------------------------------------------)
 
+26- What is a game tree?
+
+Ans- A game tree represents all possible game states, with nodes as states and edges as possible moves.
+
+(-------------------------------------------------------------------------)
+
