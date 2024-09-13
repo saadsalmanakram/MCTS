@@ -262,3 +262,9 @@ Ans- MCTS is widely used in games, planning, optimization, and real-world decisi
 
 (-------------------------------------------------------------------------)
 
+45- Why is MCTS considered asymmetric?
+
+Ans- MCTS incrementally builds a tree that is asymmetric, focusing more on promising branches rather than evenly expanding all areas.
+
+(-------------------------------------------------------------------------)
+
