@@ -76,3 +76,15 @@ Ans- MCTS can require significant memory, be computationally expensive, suffer f
 
 (-------------------------------------------------------------------------)
 
+14- How does MCTS achieve scalability and parallelization?
+
+Ans- MCTS can be efficiently parallelized by running multiple simulations or tree searches concurrently, leveraging distributed computing resources.
+
+(-------------------------------------------------------------------------)
+
+15- What is the role of heuristics in MCTS?
+
+Ans- Heuristics guide the search process, helping to prioritize nodes or actions, but their effectiveness depends on their quality and relevance to the problem domain.
+
+(-------------------------------------------------------------------------)
+
