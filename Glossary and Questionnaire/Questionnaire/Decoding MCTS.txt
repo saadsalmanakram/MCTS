@@ -658,3 +658,9 @@ Ans- They are specific to particular domains, using prior knowledge or exploitin
 
 (-------------------------------------------------------------------------)
 
+110- What is the role of bandit-based methods in MCTS?
+
+Ans- They are central to node selection in the tree policy and help balance exploration and exploitation.
+
+(------------------------------------------------------------------------)
+
