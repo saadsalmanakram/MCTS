@@ -1032,4 +1032,9 @@ Ans- Leaf parallelisation involves performing multiple simultaneous simulations 
 
 (------------------------------------------------------------------------)
 
+172- How does root parallelisation differ from leaf parallelisation in MCTS?
+
+Ans- Root parallelisation builds multiple MCTS trees simultaneously from the root, while leaf parallelisation focuses on the leaf nodes.
+
+(------------------------------------------------------------------------)
 
