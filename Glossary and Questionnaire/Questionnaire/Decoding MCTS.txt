@@ -820,3 +820,9 @@ Ans- Killer RAVE focuses on using only the most important moves for updates, as 
 
 (------------------------------------------------------------------------)
 
+137- What is RAVE-max?
+
+Ans- RAVE-max is a robust extension of RAVE that uses a variable α value based on visit counts.
+
+(------------------------------------------------------------------------)
+
