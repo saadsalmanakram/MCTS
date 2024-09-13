@@ -1062,3 +1062,21 @@ Ans- Multi-threaded MCTS without locks generally scales better across threads co
 
 (------------------------------------------------------------------------)
 
+177- What consistency issues can arise with heavily modified MCTS algorithms?
+
+Ans- They may lead to incorrect behavior as computational power increases, such as failing to identify winning moves in complex scenarios.
+
+(------------------------------------------------------------------------)
+
+178- How can parameters of game trees affect MCTS performance?
+
+Ans- Measurable parameters of game trees can predict MCTS success in various games, such as trick-taking vs. poker-like card games.
+
+(------------------------------------------------------------------------)
+
+179- What metrics are useful for comparing MCTS enhancements?
+
+Ans- Metrics include win rate, Elo ratings, iterations per second, and memory usage, with the choice depending on the enhancement's purpose.
+
+(------------------------------------------------------------------------)
+
