@@ -778,3 +778,10 @@ Ans- The tree-tree level and the tree-playout level.
 
 (------------------------------------------------------------------------)
 
+130- What is Progressive History in MCTS?
+
+Ans- Progressive History combines Progressive Bias with history heuristics by using history scores in the progressive bias calculation.
+
+(------------------------------------------------------------------------)
+
+
