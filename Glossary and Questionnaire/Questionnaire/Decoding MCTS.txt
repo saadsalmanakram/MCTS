@@ -882,3 +882,9 @@ Ans- These bounds help prove nodes by narrowing the range of possible scores, th
 
 (------------------------------------------------------------------------)
 
+147- What is the role of move pruning in MCTS?
+
+Ans- Move pruning removes suboptimal moves from the search tree, allowing MCTS to focus on more promising choices and improve efficiency.
+
+(------------------------------------------------------------------------)
+
