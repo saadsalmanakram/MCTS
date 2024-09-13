@@ -94,3 +94,21 @@ Ans- Yes, MCTS principles are applicable to various domains such as planning, sc
 
 (-------------------------------------------------------------------------)
 
+17- What is the impact of the high variance in MCTS simulations?
+
+Ans- High variance can lead to inconsistent action value estimations and introduce noise, affecting the reliability of the decision-making process.
+
+(-------------------------------------------------------------------------)
+
+18- How can MCTS be adapted to handle continuous action spaces?
+
+Ans- MCTS can be extended with techniques like discretization or specialized algorithms to manage continuous action spaces effectively.
+
+(-------------------------------------------------------------------------)
+
+19- What techniques can be used to improve the sample efficiency of MCTS?
+
+Ans- Techniques such as variance reduction, progressive widening, and more efficient simulation strategies can help improve sample efficiency.
+
+(-------------------------------------------------------------------------)
+
