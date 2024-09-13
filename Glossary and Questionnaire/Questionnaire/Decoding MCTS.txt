@@ -220,3 +220,9 @@ Ans- The simulation step runs a random or biased simulation from the selected no
 
 (-------------------------------------------------------------------------)
 
+38- Why is MCTS successful in games like Go?
+
+Ans- MCTS narrows the gap between human and computer performance by effectively handling the high branching factor and depth of Go's game tree.
+
+(-------------------------------------------------------------------------)
+
