@@ -562,3 +562,9 @@ Ans- TAG maximizes an objective function over DAGs using k-armed bandits, explor
 
 (-------------------------------------------------------------------------)
 
+94- In which domain has TAG shown superior performance?
+
+Ans- TAG has outperformed traditional methods in optimizing automatic performance tuning with DFT and FFT transforms.
+
+(-------------------------------------------------------------------------)
+
