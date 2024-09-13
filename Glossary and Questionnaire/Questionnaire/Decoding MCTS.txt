@@ -502,3 +502,9 @@ Ans- MCαβ combines MCTS with traditional α-β pruning to enhance decision-mak
 
 (-------------------------------------------------------------------------)
 
+85- What is Monte Carlo Counterfactual Regret (MCCFR)?
+
+Ans- MCCFR minimizes regret in games of imperfect information by sampling game tree paths and computing counterfactual regrets.
+
+(-------------------------------------------------------------------------)
+
