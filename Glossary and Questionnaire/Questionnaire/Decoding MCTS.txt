@@ -826,3 +826,9 @@ Ans- RAVE-max is a robust extension of RAVE that uses a variable α value based 
 
 (------------------------------------------------------------------------)
 
+138- What is PoolRAVE?
+
+Ans- PoolRAVE involves selecting moves from a pool of top RAVE-rated moves with a certain probability.
+
+(------------------------------------------------------------------------)
+
