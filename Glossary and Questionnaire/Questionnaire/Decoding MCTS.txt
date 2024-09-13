@@ -484,3 +484,9 @@ Ans- ISUCT adapts MCTS to work with games of imperfect information by operating 
 
 (-------------------------------------------------------------------------)
 
+82- How does Multiple MCTS (MMCTS) differ from standard MCTS?
+
+Ans- MMCTS builds separate trees for each player, updating them simultaneously to better reflect each player's information.
+
+(-------------------------------------------------------------------------)
+
