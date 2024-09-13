@@ -526,3 +526,9 @@ Ans- Meta-MCTS replaces the default policy with a nested MCTS, where Quasi Best-
 
 (-------------------------------------------------------------------------)
 
+89- What are the two versions of Meta-MCTS?
+
+Ans- The two versions are Quasi Best-First (exploitation-focused) and Beta Distribution Sampling (exploration-focused).
+
+(-------------------------------------------------------------------------)
+
