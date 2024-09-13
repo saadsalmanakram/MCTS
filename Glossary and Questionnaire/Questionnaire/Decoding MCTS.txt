@@ -465,3 +465,10 @@ Ans- MCTS can handle real-time constraints well due to its anytime nature and as
 Ans- Determinization transforms a stochastic game into a deterministic one by fixing chance events, making it easier to analyze.
 
 (-------------------------------------------------------------------------)
+
+79- How does Hindsight Optimisation (HOP) relate to MCTS?
+
+Ans- HOP uses a determinization approach to provide upper bounds on expected rewards, aiding decision-making in stochastic games.
+
+(-------------------------------------------------------------------------)
+
