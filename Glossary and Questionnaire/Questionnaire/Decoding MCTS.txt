@@ -1086,3 +1086,9 @@ Ans- A playout is a simulation of a game from a given node to a terminal state t
 
 (------------------------------------------------------------------------)
 
+181- What is the Leftmost Path Problem in MCTS?
+
+Ans- It involves constructing a binary tree and scoring based on the number of moves on the leftmost path, with leaf scores highly correlated to tree structure.
+
+(------------------------------------------------------------------------)
+
