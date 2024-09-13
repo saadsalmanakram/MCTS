@@ -166,3 +166,9 @@ Ans- MCTS is domain-agnostic, can be halted anytime, and adapts asymmetrically t
 
 (-------------------------------------------------------------------------)
 
+29- What are the disadvantages of MCTS?
+
+Ans- It requires a large amount of memory, may lack reliability due to insufficient exploration, and needs many iterations for effective results.
+
+(-------------------------------------------------------------------------)
+
