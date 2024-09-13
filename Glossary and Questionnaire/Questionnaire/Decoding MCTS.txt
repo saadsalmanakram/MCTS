@@ -520,3 +520,9 @@ Ans- Simultaneous moves create hidden information, requiring special algorithms 
 
 (-------------------------------------------------------------------------)
 
+88- What is Meta-MCTS?
+
+Ans- Meta-MCTS replaces the default policy with a nested MCTS, where Quasi Best-First focuses on exploitation and Beta Distribution Sampling favors exploration.
+
+(-------------------------------------------------------------------------)
+
