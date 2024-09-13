@@ -1170,3 +1170,15 @@ Ans- MCTS was used to dynamically adjust difficulty levels by varying simulation
 
 (------------------------------------------------------------------------)
 
+195- What is the impact of MCTS on real-time strategy games like Wargus?
+
+Ans- MCTS applied to Wargus showed promising results in tactical planning, outperforming baseline and human players despite lacking domain-specific knowledge.
+
+(------------------------------------------------------------------------)
+
+196- What is a common approach to handle the increased branching factor in nondeterministic games using MCTS?
+
+Ans- Determinization, which involves sampling perfect information game instances.
+
+(------------------------------------------------------------------------)
+
