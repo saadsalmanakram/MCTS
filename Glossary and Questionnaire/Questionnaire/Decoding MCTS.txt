@@ -694,3 +694,9 @@ Ans- It scores unvisited nodes to encourage early exploitation.
 
 (------------------------------------------------------------------------)
 
+116- What are decisive and anti-decisive moves in MCTS?
+
+Ans- Decisive moves lead to a win, and anti-decisive moves prevent the opponent from making a decisive move.
+
+(------------------------------------------------------------------------)
+
