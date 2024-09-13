@@ -154,3 +154,9 @@ Ans- A game tree represents all possible game states, with nodes as states and e
 
 (-------------------------------------------------------------------------)
 
+27- How does MCTS handle large branching factors in games?
+
+Ans- MCTS focuses on promising branches by prioritizing exploration and uses random simulations to avoid exhaustively expanding the entire game tree.
+
+(-------------------------------------------------------------------------)
+
