@@ -124,3 +124,9 @@ Ans- MCTS uses the Upper Confidence Bound (UCB) formula, which prioritizes both 
 
 (-------------------------------------------------------------------------)
 
+22- What happens during the Selection phase of MCTS?
+
+Ans- The algorithm selects the node to explore using a balance between exploration and exploitation based on the UCB formula.
+
+(-------------------------------------------------------------------------)
+
