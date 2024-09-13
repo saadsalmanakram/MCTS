@@ -1050,3 +1050,9 @@ Ans- UCT-Treesplit distributes both work and memory load evenly across multiple 
 
 (------------------------------------------------------------------------)
 
+175- What is the Master-Slave algorithm for MCTS and its effect?
+
+Ans- The Master-Slave algorithm involves a master node distributing tasks to slave nodes, improving performance with increasing parallelisation.
+
+(------------------------------------------------------------------------)
+
