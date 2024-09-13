@@ -814,3 +814,9 @@ Ans- RAVE is an AMAF enhancement that uses a decreasing α value to combine AMAF
 
 (------------------------------------------------------------------------)
 
+136- What is the difference between RAVE and Killer RAVE?
+
+Ans- Killer RAVE focuses on using only the most important moves for updates, as opposed to RAVE which uses all moves.
+
+(------------------------------------------------------------------------)
+
