@@ -316,3 +316,9 @@ Ans- UCB is a strategy that balances exploration and exploitation by selecting t
 
 (-------------------------------------------------------------------------)
 
+54- What does the UCB1 formula consist of?
+
+Ans- UCB1 combines the average reward of an arm with an exploration term that scales with the logarithm of total plays and inversely with the number of times the arm was played.
+
+(-------------------------------------------------------------------------)
+
