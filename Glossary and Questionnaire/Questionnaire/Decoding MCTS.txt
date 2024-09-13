@@ -1206,3 +1206,9 @@ Ans- By extending UCT to manage hidden information and simultaneous moves, impro
 
 (-------------------------------------------------------------------------)
 
+201- What unique aspect does Phantom Chess add to the application of MCTS?
+
+Ans- It incorporates "fog of war," where players only see their own pieces, requiring MCTS to handle partial information effectively.
+
+(-------------------------------------------------------------------------)
+
