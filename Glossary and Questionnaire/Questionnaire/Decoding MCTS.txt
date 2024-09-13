@@ -136,3 +136,9 @@ Ans- The algorithm expands the game tree by adding a child node to the selected 
 
 (-------------------------------------------------------------------------)
 
+24- What occurs in the Simulation phase of MCTS?
+
+Ans- A random playout is conducted from the new node to a terminal state (win, lose, or draw).
+
+(-------------------------------------------------------------------------)
+
