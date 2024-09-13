@@ -448,3 +448,9 @@ Ans- Ensemble UCT runs multiple UCT instances in parallel and combines their res
 
 (-------------------------------------------------------------------------)
 
+76- How does Ensemble UCT compare to plain UCT?
+
+Ans- Ensemble UCT often outperforms plain UCT given the same number of total iterations.
+
+(-------------------------------------------------------------------------)
+
