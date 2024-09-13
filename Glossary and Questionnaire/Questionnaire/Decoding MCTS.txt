@@ -478,3 +478,9 @@ Ans- Sparse UCT expands MCTS for stochastic outcomes, creating multiple child no
 
 (-------------------------------------------------------------------------)
 
+81- What is Information Set UCT (ISUCT)?
+
+Ans- ISUCT adapts MCTS to work with games of imperfect information by operating on trees of information sets.
+
+(-------------------------------------------------------------------------)
+
