@@ -724,3 +724,9 @@ Ans- It incorporates heuristic knowledge into the selection process, favoring no
 
 (------------------------------------------------------------------------)
 
+121- What is Monte Carlo Paraphrase Generation (MCPG)?
+
+Ans- MCPG is an MCTS variant where selection is based on the maximum reachable score rather than the average score for paraphrasing natural language statements.
+
+(------------------------------------------------------------------------)
+
