@@ -472,3 +472,9 @@ Ans- HOP uses a determinization approach to provide upper bounds on expected rew
 
 (-------------------------------------------------------------------------)
 
+80- What is Sparse UCT?
+
+Ans- Sparse UCT expands MCTS for stochastic outcomes, creating multiple child nodes for each possible outcome of a move.
+
+(-------------------------------------------------------------------------)
+
