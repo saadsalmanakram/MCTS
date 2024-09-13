@@ -1146,3 +1146,9 @@ Ans- Enhancements included MAST, TO-MAST, PAST, and RAVE techniques to improve p
 
 (------------------------------------------------------------------------)
 
+191- How did domain-specific knowledge improve UCT performance in general games?
+
+Ans- Domain-specific knowledge helped to evolve and generate better strategies, improving convergence rates and performance in general games.
+
+(------------------------------------------------------------------------)
+
