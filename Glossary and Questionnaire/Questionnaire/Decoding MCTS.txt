@@ -292,3 +292,9 @@ Ans- MCTS has been adapted for multi-player scenarios using variations like Coal
 
 (-------------------------------------------------------------------------)
 
+50- What is a multi-armed bandit problem?
+
+Ans- It is a sequential decision problem where one must choose from multiple actions to maximize cumulative reward, balancing exploration and exploitation.
+
+(-------------------------------------------------------------------------)
+
