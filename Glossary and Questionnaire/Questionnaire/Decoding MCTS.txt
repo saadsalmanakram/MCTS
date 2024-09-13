@@ -711,3 +711,16 @@ Ans- They reduce the branching factor by grouping similar moves and using UCB1 t
 Ans- It occurs when the same state/action pair is reached through different paths, allowing information reuse across the search tree.
 
 (------------------------------------------------------------------------)
+
+119- What is the benefit of using transposition tables in MCTS?
+
+Ans- They store statistics for edges in the DAG, improving search efficiency by sharing information.
+
+(------------------------------------------------------------------------)
+
+120- What is the progressive bias technique in MCTS?
+
+Ans- It incorporates heuristic knowledge into the selection process, favoring nodes with better heuristic values when statistics are unreliable.
+
+(------------------------------------------------------------------------)
+
