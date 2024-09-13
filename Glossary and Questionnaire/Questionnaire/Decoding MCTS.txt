@@ -244,3 +244,9 @@ Ans- Enhancements include techniques like RAVE (Rapid Action Value Estimation), 
 
 (-------------------------------------------------------------------------)
 
+42- What is a Partially Observable Markov Decision Process (POMDP)?
+
+Ans- A POMDP is a decision-making model where the agent cannot fully observe the current state, adding complexity to the problem.
+
+(-------------------------------------------------------------------------)
+
