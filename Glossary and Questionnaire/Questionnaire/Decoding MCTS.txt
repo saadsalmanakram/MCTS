@@ -537,3 +537,10 @@ Ans- The two versions are Quasi Best-First (exploitation-focused) and Beta Distr
 Ans- By generating better opening books using nested MCTS, Meta-MCTS enhances the playing strength of MOGO in 9×9 Go.
 
 (-------------------------------------------------------------------------)
+
+90- What is Heuristically Guided Swarm Tree Search (HGSTS)?
+
+Ans- HGSTS conducts a breadth-first search in the game tree, using heuristics and UCT for prioritizing and expanding nodes.
+
+(-------------------------------------------------------------------------)
+
