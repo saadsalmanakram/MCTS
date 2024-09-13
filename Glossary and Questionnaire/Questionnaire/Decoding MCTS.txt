@@ -514,3 +514,9 @@ Ans- Opponent modeling helps infer hidden information, improving decision-making
 
 (-------------------------------------------------------------------------)
 
+87- What challenge do simultaneous moves pose for MCTS?
+
+Ans- Simultaneous moves create hidden information, requiring special algorithms like EXP3 to handle uncertainty effectively.
+
+(-------------------------------------------------------------------------)
+
