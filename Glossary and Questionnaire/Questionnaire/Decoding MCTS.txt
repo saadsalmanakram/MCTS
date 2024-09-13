@@ -328,3 +328,9 @@ Ans- It provides a logarithmic bound on regret and ensures a balance between try
 
 (-------------------------------------------------------------------------)
 
+56- What is the role of Monte Carlo simulations in MCTS?
+
+Ans- They estimate action values by running random playouts and progressively refining these estimates as more simulations are performed.
+
+(-------------------------------------------------------------------------)
+
