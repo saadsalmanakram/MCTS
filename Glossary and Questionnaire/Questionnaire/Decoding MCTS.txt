@@ -1188,3 +1188,15 @@ Ans- It significantly increases playing strength by biasing determinizations bas
 
 (------------------------------------------------------------------------)
 
+198- How does the application of hindsight optimization (HOP) benefit Klondike Solitaire?
+
+Ans- HOP combined with UCT achieved a win rate more than twice that of human players.
+
+(------------------------------------------------------------------------)
+
+199- What is the primary challenge addressed by MCTS in games like Scotland Yard?
+
+Ans- Handling imperfect information and fixed coalitions.
+
+(-------------------------------------------------------------------------)
+
