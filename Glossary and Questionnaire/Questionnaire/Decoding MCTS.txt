@@ -640,3 +640,9 @@ Ans- MHSP can generate partial plans even before finding a complete solution, pr
 
 (-------------------------------------------------------------------------)
 
+107- What are the two main categories of MCTS tree policy enhancements?
+
+Ans- Domain Independent and Domain Dependent.
+
+(-------------------------------------------------------------------------)
+
