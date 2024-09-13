@@ -381,3 +381,10 @@ Ans- UCT outperforms minimax in bounded trees with a single optimal action per s
 Ans- UCT is a variation of MCTS that uses UCB for tree selection.
 
 (-------------------------------------------------------------------------)
+
+65- What is Flat UCB in the context of MCTS?
+
+Ans- Flat UCB treats leaf nodes as a multi-armed bandit problem, avoiding tree growth.
+
+(-------------------------------------------------------------------------)
+
