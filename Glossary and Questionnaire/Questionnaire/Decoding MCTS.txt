@@ -610,3 +610,9 @@ Ans- ρUCT generalizes UCT by approximating a finite horizon expectimax operatio
 
 (-------------------------------------------------------------------------)
 
+102- What is MC-AIXA, and how does it relate to ρUCT?
+
+Ans- MC-AIXA, built using ρUCT, approaches optimal performance across various problem domains by applying this generalization of UCT.
+
+(-------------------------------------------------------------------------)
+
