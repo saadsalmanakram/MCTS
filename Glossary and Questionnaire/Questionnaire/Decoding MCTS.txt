@@ -286,3 +286,9 @@ Ans- Bandit algorithms like UCB help in balancing the exploration-exploitation t
 
 (-------------------------------------------------------------------------)
 
+49- How has MCTS been extended for multi-player games?
+
+Ans- MCTS has been adapted for multi-player scenarios using variations like Coalition Reduction and Ensemble UCT.
+
+(-------------------------------------------------------------------------)
+
