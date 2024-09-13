@@ -508,3 +508,9 @@ Ans- MCCFR minimizes regret in games of imperfect information by sampling game t
 
 (-------------------------------------------------------------------------)
 
+86- How does inference and opponent modeling enhance MCTS?
+
+Ans- Opponent modeling helps infer hidden information, improving decision-making in games of imperfect information.
+
+(-------------------------------------------------------------------------)
+
