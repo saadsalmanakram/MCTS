@@ -918,3 +918,9 @@ Ans- Pruning with domain knowledge removes inferior moves based on specific game
 
 (------------------------------------------------------------------------)
 
+153- What is the default simulation policy in MCTS, and what is its main drawback?
+
+Ans- The default simulation policy selects actions randomly, which ensures coverage of different areas of the search space but may not reflect realistic gameplay.
+
+(------------------------------------------------------------------------)
+
