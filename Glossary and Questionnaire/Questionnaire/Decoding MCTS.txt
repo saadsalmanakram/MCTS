@@ -1056,3 +1056,9 @@ Ans- The Master-Slave algorithm involves a master node distributing tasks to sla
 
 (------------------------------------------------------------------------)
 
+176- How does multi-threaded MCTS without locks compare to locked approaches?
+
+Ans- Multi-threaded MCTS without locks generally scales better across threads compared to approaches that require locks.
+
+(------------------------------------------------------------------------)
+
