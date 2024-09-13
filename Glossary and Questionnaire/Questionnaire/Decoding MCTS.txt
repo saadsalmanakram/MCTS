@@ -906,3 +906,9 @@ Ans- Progressive Widening controls the expansion of child nodes in MCTS based on
 
 (------------------------------------------------------------------------)
 
+151- How does Absolute Pruning differ from Relative Pruning in MCTS?
+
+Ans- Absolute Pruning keeps only the most visited action, while Relative Pruning uses a visit threshold to determine if the most visited action will remain the most visited, enhancing search focus and accuracy.
+
+(------------------------------------------------------------------------)
+
