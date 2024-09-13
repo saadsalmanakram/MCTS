@@ -279,3 +279,10 @@ Ans- Progressive bias guides the search by incorporating heuristic knowledge to 
 Ans- MCTS uses random sampling to explore the search space, whereas minimax evaluates every possible move up to a certain depth.
 
 (-------------------------------------------------------------------------)
+
+48- What is the role of bandit algorithms in MCTS?
+
+Ans- Bandit algorithms like UCB help in balancing the exploration-exploitation tradeoff in MCTS.
+
+(-------------------------------------------------------------------------)
+
