@@ -1026,4 +1026,10 @@ Ans- They share information between nodes corresponding to the same state, with 
 
 (------------------------------------------------------------------------)
 
+171- What is leaf parallelisation in MCTS?
+
+Ans- Leaf parallelisation involves performing multiple simultaneous simulations at each leaf node to improve statistics.
+
+(------------------------------------------------------------------------)
+
 
