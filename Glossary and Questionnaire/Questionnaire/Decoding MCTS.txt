@@ -412,3 +412,9 @@ Ans- SP-MCTS adds a third term to the UCB formula to manage variance in single-p
 
 (-------------------------------------------------------------------------)
 
+70- What is the goal of the Bandit-Based Active Learner (BAAL)?
+
+Ans- BAAL minimizes generalization error in sparse data scenarios by approximating the optimal active learning policy.
+
+(-------------------------------------------------------------------------)
+
