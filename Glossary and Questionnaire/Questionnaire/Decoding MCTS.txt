@@ -730,3 +730,21 @@ Ans- MCPG is an MCTS variant where selection is based on the maximum reachable s
 
 (------------------------------------------------------------------------)
 
+122- How does MCPG differ from plain UCT?
+
+Ans- MCPG uses the maximum reachable score for state selection, unlike UCT which uses the average score.
+
+(------------------------------------------------------------------------)
+
+123- What is search seeding in MCTS?
+
+Ans- Search seeding initializes nodes with heuristic-based statistics to enhance search efficiency and reduce the need for simulations.
+
+(------------------------------------------------------------------------)
+
+124- How does seeding impact the performance of an MCTS?
+
+Ans- Seeding can increase playing strength by providing better initial estimates, potentially reducing the number of required simulations.
+
+(------------------------------------------------------------------------)
+
