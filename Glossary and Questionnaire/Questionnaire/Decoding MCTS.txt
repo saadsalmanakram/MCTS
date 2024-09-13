@@ -268,3 +268,9 @@ Ans- MCTS incrementally builds a tree that is asymmetric, focusing more on promi
 
 (-------------------------------------------------------------------------)
 
+46- What is progressive bias in MCTS?
+
+Ans- Progressive bias guides the search by incorporating heuristic knowledge to prioritize certain actions.
+
+(-------------------------------------------------------------------------)
+
