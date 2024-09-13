@@ -172,3 +172,9 @@ Ans- It requires a large amount of memory, may lack reliability due to insuffici
 
 (-------------------------------------------------------------------------)
 
+30- What does the term ‘anytime algorithm’ mean in MCTS?
+
+Ans- MCTS can be stopped at any point and still return the best current estimate without completing the full search.
+
+(-------------------------------------------------------------------------)
+
