@@ -984,3 +984,9 @@ Ans- Simulation balancing uses gradient descent to adjust simulation policies, a
 
 (------------------------------------------------------------------------)
 
+164- What is the Last Good Reply (LGR) enhancement, and how does it operate?
+
+Ans- LGR stores successful responses to moves and reuses them in future simulations, improving policy by focusing on historically successful replies.
+
+(------------------------------------------------------------------------)
+
