@@ -924,3 +924,9 @@ Ans- The default simulation policy selects actions randomly, which ensures cover
 
 (------------------------------------------------------------------------)
 
+154- What are "heavy playouts" in the context of MCTS?
+
+Ans- Heavy playouts involve incorporating domain knowledge into simulations to make them more realistic, as opposed to purely random play.
+
+(------------------------------------------------------------------------)
+
