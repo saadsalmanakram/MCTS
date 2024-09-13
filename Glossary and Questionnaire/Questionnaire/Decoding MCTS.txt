@@ -700,3 +700,9 @@ Ans- Decisive moves lead to a win, and anti-decisive moves prevent the opponent 
 
 (------------------------------------------------------------------------)
 
+117- How do move groups improve MCTS performance in certain games?
+
+Ans- They reduce the branching factor by grouping similar moves and using UCB1 to select between groups.
+
+(------------------------------------------------------------------------)
+
