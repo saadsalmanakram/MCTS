@@ -706,3 +706,8 @@ Ans- They reduce the branching factor by grouping similar moves and using UCB1 t
 
 (------------------------------------------------------------------------)
 
+118- What is a transposition in the context of MCTS?
+
+Ans- It occurs when the same state/action pair is reached through different paths, allowing information reuse across the search tree.
+
+(------------------------------------------------------------------------)
