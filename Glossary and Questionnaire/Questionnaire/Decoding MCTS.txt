@@ -832,3 +832,9 @@ Ans- PoolRAVE involves selecting moves from a pool of top RAVE-rated moves with 
 
 (------------------------------------------------------------------------)
 
+139- What is a game-theoretic enhancement in MCTS?
+
+Ans- It involves backing up known game-theoretic values during backpropagation to improve reward estimates for non-terminal nodes.
+
+(------------------------------------------------------------------------)
+
