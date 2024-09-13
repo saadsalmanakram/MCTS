@@ -862,3 +862,11 @@ Ans- MCTS-Solver uses PNS to prove game values and applies normal UCB selection 
 
 (------------------------------------------------------------------------)
 
+Monte Carlo Proof-Number Search (MC-PNS)
+
+144- What distinguishes MC-PNS from standard PNS?
+
+Ans- MC-PNS combines proof-number search with Monte Carlo simulations to evaluate nodes, making the proof of game-theoretic values faster and with fewer nodes.
+
+(------------------------------------------------------------------------)
+
