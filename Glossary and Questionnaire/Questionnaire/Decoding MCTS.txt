@@ -442,3 +442,9 @@ Ans- Finding the right set of agents with properties that improve playing streng
 
 (-------------------------------------------------------------------------)
 
+75- What is Ensemble UCT?
+
+Ans- Ensemble UCT runs multiple UCT instances in parallel and combines their results for more robust decision-making.
+
+(-------------------------------------------------------------------------)
+
