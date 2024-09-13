@@ -1140,3 +1140,9 @@ Ans- ARY used nested Monte Carlo search and transposition tables to improve perf
 
 (------------------------------------------------------------------------)
 
+190- What enhancements were added to CADIAPLAYER for improved performance?
+
+Ans- Enhancements included MAST, TO-MAST, PAST, and RAVE techniques to improve performance across various games.
+
+(------------------------------------------------------------------------)
+
