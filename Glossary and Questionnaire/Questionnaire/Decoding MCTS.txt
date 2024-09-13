@@ -1152,3 +1152,9 @@ Ans- Domain-specific knowledge helped to evolve and generate better strategies, 
 
 (------------------------------------------------------------------------)
 
+192- How is MCTS applied to Tron and what are its challenges?
+
+Ans- MCTS was applied to Tron with specific modifications to handle self-entrapment and survival modes, though challenges include dealing with ineffective playouts.
+
+(------------------------------------------------------------------------)
+
