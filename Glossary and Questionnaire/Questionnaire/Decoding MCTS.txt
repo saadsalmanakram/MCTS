@@ -1020,4 +1020,10 @@ Ans- It multiplies the reward value by a constant 0<γ≤1 to weight early wins 
 
 (------------------------------------------------------------------------)
 
+170- What are transposition table updates in MCTS and their variations?
+
+Ans- They share information between nodes corresponding to the same state, with UCT1, UCT2, and UCT3 being different strategies for handling transpositions.
+
+(------------------------------------------------------------------------)
+
 
