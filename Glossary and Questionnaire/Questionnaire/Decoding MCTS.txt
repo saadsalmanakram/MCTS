@@ -652,3 +652,9 @@ Ans- They can be applied to any domain without prior knowledge and typically off
 
 (-------------------------------------------------------------------------)
 
+109- What is the focus of domain-dependent MCTS enhancements?
+
+Ans- They are specific to particular domains, using prior knowledge or exploiting unique domain characteristics.
+
+(-------------------------------------------------------------------------)
+
