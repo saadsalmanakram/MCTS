@@ -754,3 +754,15 @@ Ans- Parameter tuning, such as adjusting exploration constants, optimizes MCTS p
 
 (------------------------------------------------------------------------)
 
+126- What is an example of a parameter that might be tuned in MCTS?
+
+Ans- The UCT exploration constant Cp is a commonly tuned parameter.
+
+(------------------------------------------------------------------------)
+
+127- How can parameter tuning be automated in MCTS?
+
+Ans- Techniques like Cross-Entropy Methods, dynamic exploration, and neural networks can be used for automated parameter tuning.
+
+(------------------------------------------------------------------------)
+
