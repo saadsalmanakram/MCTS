@@ -238,3 +238,9 @@ Ans- UCT (Upper Confidence Bounds for Trees) is a variation of MCTS that converg
 
 (-------------------------------------------------------------------------)
 
+41- What are some common enhancements to MCTS?
+
+Ans- Enhancements include techniques like RAVE (Rapid Action Value Estimation), progressive bias, and parallelization.
+
+(-------------------------------------------------------------------------)
+
