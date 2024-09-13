@@ -28,3 +28,15 @@ Ans- A new child node is added to the tree at the node selected during the Selec
 
 (-------------------------------------------------------------------------)
 
+6- Describe the Simulation step in MCTS.
+
+Ans- The Simulation step involves running random plays from the newly added node until a terminal state or predefined depth is reached.
+
+(-------------------------------------------------------------------------)
+
+7- What is Backpropagation in MCTS?
+
+Ans- Backpropagation updates the nodes along the path from the newly added node to the root with the results of the simulation, including visit counts and win ratios.
+
+(-------------------------------------------------------------------------)
+
