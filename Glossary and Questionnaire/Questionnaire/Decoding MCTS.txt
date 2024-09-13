@@ -796,3 +796,9 @@ Ans- All Moves As First.
 
 (------------------------------------------------------------------------)
 
+133- What is the purpose of the AMAF heuristic?
+
+Ans- AMAF updates statistics for all actions encountered during a simulation as if they were the first move.
+
+(------------------------------------------------------------------------)
+
