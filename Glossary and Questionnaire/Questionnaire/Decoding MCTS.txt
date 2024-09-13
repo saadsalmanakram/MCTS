@@ -556,3 +556,9 @@ Ans- BFS3 approaches Bayes-optimality by increasing the computational budget, li
 
 (-------------------------------------------------------------------------)
 
+93- What is Threshold Ascent for Graphs (TAG)?
+
+Ans- TAG maximizes an objective function over DAGs using k-armed bandits, exploring nodes with random simulations.
+
+(-------------------------------------------------------------------------)
+
