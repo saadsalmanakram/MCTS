@@ -1230,3 +1230,14 @@ Ans- MCTS guides searches in problems like Mixed Integer Programming (MIP) and T
 
 (-------------------------------------------------------------------------)
 
+205- What advantage does MCTS offer in Mixed Integer Programming (MIP) compared to traditional solvers?
+
+Ans- UCT-based node selection shows promising results compared to traditional solvers like CPLEX.
+
+(-------------------------------------------------------------------------)
+
+206- What approach is used to solve the Travelling Salesman Problem (TSP) with MCTS?
+
+Ans- A nested Monte Carlo search algorithm with time windows is used to address the problem.
+
+(-------------------------------------------------------------------------)
