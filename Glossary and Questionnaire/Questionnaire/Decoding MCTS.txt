@@ -936,3 +936,9 @@ Ans- A rule-based simulation policy uses domain-specific rules to guide actions,
 
 (------------------------------------------------------------------------)
 
+156- What is Contextual Monte Carlo Search (CMCS), and how does it benefit simulations?
+
+Ans- CMCS combines simulations that reach similar areas of the tree into tiles, using historical data to guide future simulations, improving efficiency and relevance.
+
+(------------------------------------------------------------------------)
+
