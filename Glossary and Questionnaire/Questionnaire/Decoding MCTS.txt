@@ -670,3 +670,9 @@ Ans- It tunes the upper confidence bound by incorporating variance.
 
 (------------------------------------------------------------------------)
 
+112- What is the advantage of Bayesian UCT over standard UCT?
+
+Ans- It allows more accurate estimation of node values and uncertainties using a Bayesian framework.
+
+(------------------------------------------------------------------------)
+
