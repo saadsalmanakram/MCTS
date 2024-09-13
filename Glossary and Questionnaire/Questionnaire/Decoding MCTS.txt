@@ -346,3 +346,9 @@ Ans- MCTS does not require domain-specific knowledge, making it adaptable across
 
 (-------------------------------------------------------------------------)
 
+59- Why is MCTS preferred over minimax in games like Go?
+
+Ans- MCTS handles large branching factors effectively, where minimax struggles without reliable heuristics.
+
+(-------------------------------------------------------------------------)
+
