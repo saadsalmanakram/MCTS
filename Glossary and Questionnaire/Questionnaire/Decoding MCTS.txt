@@ -942,3 +942,9 @@ Ans- CMCS combines simulations that reach similar areas of the tree into tiles, 
 
 (------------------------------------------------------------------------)
 
+157- Explain the "Fill the Board" enhancement in MCTS.
+
+Ans- Fill the Board involves selecting random board intersections to play, which speeds up board space occupation and can help apply strategic patterns earlier in the game.
+
+(------------------------------------------------------------------------)
+
