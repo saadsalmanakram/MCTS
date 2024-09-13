@@ -972,3 +972,9 @@ Ans- History heuristics use historical performance of moves to guide simulation 
 
 (------------------------------------------------------------------------)
 
+162- What role does an evaluation function play in improving simulation policies?
+
+Ans- An evaluation function helps avoid bad moves early in simulations and guides towards better moves later, enhancing the quality of simulated gameplay.
+
+(------------------------------------------------------------------------)
+
