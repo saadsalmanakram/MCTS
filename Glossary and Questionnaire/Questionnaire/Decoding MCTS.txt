@@ -130,3 +130,9 @@ Ans- The algorithm selects the node to explore using a balance between explorati
 
 (-------------------------------------------------------------------------)
 
+23- What is the Expansion phase in MCTS?
+
+Ans- The algorithm expands the game tree by adding a child node to the selected node.
+
+(-------------------------------------------------------------------------)
+
