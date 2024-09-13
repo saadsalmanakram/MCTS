@@ -40,3 +40,9 @@ Ans- Backpropagation updates the nodes along the path from the newly added node 
 
 (-------------------------------------------------------------------------)
 
+8- What role does the Upper Confidence Bound (UCB) formula play in MCTS?
+
+Ans- The UCB formula helps balance exploration and exploitation by evaluating nodes based on both their empirical mean and the number of visits.
+
+(-------------------------------------------------------------------------)
+
