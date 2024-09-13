@@ -202,4 +202,9 @@ Ans- UCB helps in selecting the best node by balancing between nodes with high-v
 
 (-------------------------------------------------------------------------)
 
- 
+35- How does MCTS handle unexplored nodes?
+
+Ans- MCTS assigns infinite value to unexplored nodes, ensuring each node gets visited at least once.
+
+(-------------------------------------------------------------------------)
+
