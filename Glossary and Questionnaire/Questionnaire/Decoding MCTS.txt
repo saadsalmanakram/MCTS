@@ -808,3 +808,9 @@ Ans- α-AMAF blends UCT and AMAF scores, adjusting α to balance their contribut
 
 (------------------------------------------------------------------------)
 
+135- What is Rapid Action Value Estimation (RAVE)?
+
+Ans- RAVE is an AMAF enhancement that uses a decreasing α value to combine AMAF and UCT scores.
+
+(------------------------------------------------------------------------)
+
