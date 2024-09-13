@@ -948,3 +948,21 @@ Ans- Fill the Board involves selecting random board intersections to play, which
 
 (------------------------------------------------------------------------)
 
+158- What is Move-Average Sampling Technique (MAST), and how does it work?
+
+Ans- MAST uses average reward values for actions to bias selection towards more promising moves during simulations, using a Gibbs distribution based on historical data.
+
+(------------------------------------------------------------------------)
+
+159- How does Predicate-Average Sampling Technique (PAST) differ from MAST?
+
+Ans- PAST maintains average values for predicate/action pairs rather than just actions, allowing it to consider contextual information and bias simulations accordingly.
+
+(------------------------------------------------------------------------)
+
+160- What is Feature-Average Sampling Technique (FAST), and when is it useful?
+
+Ans-  FAST extracts game features to learn their importance and bias simulations, improving performance in games defined with the Game Description Language (GDL).
+
+(------------------------------------------------------------------------)
+
