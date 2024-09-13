@@ -1092,3 +1092,8 @@ Ans- It involves constructing a binary tree and scoring based on the number of m
 
 (------------------------------------------------------------------------)
 
+182- How does the Left Move Problem differ from the Leftmost Path Problem?
+
+Ans- In the Left Move Problem, the score is based on the number of moves to the left, resulting in less correlation with tree structure compared to the Leftmost Path Problem.
+
+(------------------------------------------------------------------------)
