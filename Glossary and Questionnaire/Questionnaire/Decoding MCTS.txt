@@ -784,4 +784,10 @@ Ans- Progressive History combines Progressive Bias with history heuristics by us
 
 (------------------------------------------------------------------------)
 
+131- For which type of games has Progressive History been shown to perform well?
+
+Ans- Multi-player board games.
+
+(------------------------------------------------------------------------)
+
 
