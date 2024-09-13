@@ -1182,3 +1182,9 @@ Ans- Determinization, which involves sampling perfect information game instances
 
 (------------------------------------------------------------------------)
 
+197- What advantage does UCT with a learned opponent model provide in Poker?
+
+Ans- It significantly increases playing strength by biasing determinizations based on the opponent’s previous games.
+
+(------------------------------------------------------------------------)
+
