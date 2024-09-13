@@ -748,3 +748,9 @@ Ans- Seeding can increase playing strength by providing better initial estimates
 
 (------------------------------------------------------------------------)
 
+125- Why is parameter tuning important in MCTS?
+
+Ans- Parameter tuning, such as adjusting exploration constants, optimizes MCTS performance for specific domains and enhances overall efficiency.
+
+(------------------------------------------------------------------------)
+
