@@ -1224,3 +1224,9 @@ Ans- Expectimax was found to be more beneficial than having a perfect opponent m
 
 (-------------------------------------------------------------------------)
 
+204- How is MCTS used in combinatorial optimization problems?
+
+Ans- MCTS guides searches in problems like Mixed Integer Programming (MIP) and Travelling Salesman Problem (TSP) for better solutions.
+
+(-------------------------------------------------------------------------)
+
