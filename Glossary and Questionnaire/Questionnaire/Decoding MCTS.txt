@@ -418,3 +418,9 @@ Ans- BAAL minimizes generalization error in sparse data scenarios by approximati
 
 (-------------------------------------------------------------------------)
 
+71- What problem does Feature UCT Selection (FUSE) solve?
+
+Ans- FUSE adapts UCT to the combinatorial optimization problem of feature selection.
+
+(-------------------------------------------------------------------------)
+
