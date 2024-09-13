@@ -388,3 +388,15 @@ Ans- Flat UCB treats leaf nodes as a multi-armed bandit problem, avoiding tree g
 
 (-------------------------------------------------------------------------)
 
+66- How does the Bandit Algorithm for Smooth Trees (BAST) improve upon UCT?
+
+Ans- BAST focuses on expanding optimal branches, ignoring suboptimal ones with high confidence.
+
+(-------------------------------------------------------------------------)
+
+67- How is MCTS related to Temporal Difference Learning (TDL)?
+
+Ans- MCTS estimates temporary state values, while TDL learns long-term state values.
+
+(-------------------------------------------------------------------------)
+
