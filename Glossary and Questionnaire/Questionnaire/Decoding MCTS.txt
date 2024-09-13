@@ -978,3 +978,9 @@ Ans- An evaluation function helps avoid bad moves early in simulations and guide
 
 (------------------------------------------------------------------------)
 
+163- Describe simulation balancing in MCTS and its potential benefits.
+
+Ans- Simulation balancing uses gradient descent to adjust simulation policies, aiming to produce balanced play rather than necessarily stronger play.
+
+(------------------------------------------------------------------------)
+
