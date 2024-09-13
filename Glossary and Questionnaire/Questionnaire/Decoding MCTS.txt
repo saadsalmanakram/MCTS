@@ -298,3 +298,9 @@ Ans- It is a sequential decision problem where one must choose from multiple act
 
 (-------------------------------------------------------------------------)
 
+51- What is the exploration-exploitation dilemma?
+
+Ans- It is the challenge of choosing between exploiting the action believed to be optimal and exploring potentially better but less tried options.
+
+(-------------------------------------------------------------------------)
+
