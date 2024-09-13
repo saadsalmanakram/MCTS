@@ -214,3 +214,9 @@ Ans- MCTS simulates possible game moves, evaluates the outcomes, and updates the
 
 (-------------------------------------------------------------------------)
 
+37- What is the role of the simulation step in MCTS?
+
+Ans- The simulation step runs a random or biased simulation from the selected node to estimate the outcome.
+
+(-------------------------------------------------------------------------)
+
