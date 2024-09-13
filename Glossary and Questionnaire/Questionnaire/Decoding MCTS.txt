@@ -178,3 +178,9 @@ Ans- MCTS can be stopped at any point and still return the best current estimate
 
 (-------------------------------------------------------------------------)
 
+31- Why is MCTS considered domain-agnostic?
+
+Ans- MCTS doesn't need specific domain knowledge and only relies on legal moves and end conditions to make decisions.
+
+(-------------------------------------------------------------------------)
+
