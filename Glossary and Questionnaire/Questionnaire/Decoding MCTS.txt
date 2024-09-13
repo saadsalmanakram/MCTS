@@ -766,3 +766,9 @@ Ans- Techniques like Cross-Entropy Methods, dynamic exploration, and neural netw
 
 (------------------------------------------------------------------------)
 
+128- What is the history heuristic in MCTS?
+
+Ans- It leverages past move data to improve action selection and simulation policies within the MCTS framework.
+
+(------------------------------------------------------------------------)
+
