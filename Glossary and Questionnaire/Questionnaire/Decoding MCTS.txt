@@ -232,3 +232,9 @@ Ans- MCTS requires little to no domain-specific knowledge, making it effective i
 
 (-------------------------------------------------------------------------)
 
+40- What is UCT in MCTS?
+
+Ans- UCT (Upper Confidence Bounds for Trees) is a variation of MCTS that converges to the optimal minimax decision over time.
+
+(-------------------------------------------------------------------------)
+
