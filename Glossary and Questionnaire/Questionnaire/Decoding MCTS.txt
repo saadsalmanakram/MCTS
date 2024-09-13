@@ -1038,3 +1038,9 @@ Ans- Root parallelisation builds multiple MCTS trees simultaneously from the roo
 
 (------------------------------------------------------------------------)
 
+173- What is tree parallelisation in MCTS?
+
+Ans- Tree parallelisation involves multiple threads performing MCTS simulations on the same tree, with mechanisms to handle simultaneous access and updates.
+
+(------------------------------------------------------------------------)
+
