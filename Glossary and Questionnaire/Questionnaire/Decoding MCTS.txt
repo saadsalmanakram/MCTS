@@ -544,3 +544,9 @@ Ans- HGSTS conducts a breadth-first search in the game tree, using heuristics an
 
 (-------------------------------------------------------------------------)
 
+91- What is Forward Search Sparse Sampling (FSSS)?
+
+Ans- FSSS replaces known policies with sample-based planners to address UCT’s computational inefficiencies and achieve sample efficiency.
+
+(-------------------------------------------------------------------------)
+
