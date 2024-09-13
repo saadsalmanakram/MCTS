@@ -888,3 +888,9 @@ Ans- Move pruning removes suboptimal moves from the search tree, allowing MCTS t
 
 (------------------------------------------------------------------------)
 
+148- What is the difference between soft pruning and hard pruning in MCTS?
+
+Ans- Soft pruning removes moves that may be revisited later, while hard pruning eliminates moves that will never be considered, potentially sacrificing optimality for efficiency.
+
+(------------------------------------------------------------------------)
+
