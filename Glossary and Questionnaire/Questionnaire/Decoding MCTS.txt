@@ -550,3 +550,9 @@ Ans- FSSS replaces known policies with sample-based planners to address UCT’s 
 
 (-------------------------------------------------------------------------)
 
+92- How does Bayesian FSSS (BFS3) extend FSSS?
+
+Ans- BFS3 approaches Bayes-optimality by increasing the computational budget, linking learning and planning.
+
+(-------------------------------------------------------------------------)
+
