@@ -1097,3 +1097,10 @@ Ans- It involves constructing a binary tree and scoring based on the number of m
 Ans- In the Left Move Problem, the score is based on the number of moves to the left, resulting in less correlation with tree structure compared to the Leftmost Path Problem.
 
 (------------------------------------------------------------------------)
+
+183- What is Morpion Solitaire and how is it solved using MCTS?
+
+Ans- Morpion Solitaire is a puzzle where players color vertices to form lines of five. MCTS has been used to improve solutions, with notable achievements including solving non-touching versions with up to 177 moves.
+
+(------------------------------------------------------------------------)
+
