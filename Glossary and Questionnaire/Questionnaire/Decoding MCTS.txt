@@ -930,3 +930,9 @@ Ans- Heavy playouts involve incorporating domain knowledge into simulations to m
 
 (------------------------------------------------------------------------)
 
+155- How does a rule-based simulation policy improve MCTS?
+
+Ans- A rule-based simulation policy uses domain-specific rules to guide actions, aiming to enhance simulation efficiency and realism.
+
+(------------------------------------------------------------------------)
+
