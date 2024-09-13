@@ -996,3 +996,9 @@ Ans- LGRF adds "forgetting" by removing stored replies that lead to losses in re
 
 (------------------------------------------------------------------------)
 
+166- What is the role of patterns in MCTS simulations, and how do they improve performance?
+
+Ans- Patterns detect specific board configurations to guide simulations, making them more realistic and effective by mimicking strategic moves seen in human play.
+
+(------------------------------------------------------------------------)
+
