@@ -400,3 +400,9 @@ Ans- MCTS estimates temporary state values, while TDL learns long-term state val
 
 (-------------------------------------------------------------------------)
 
+68- What is the purpose of combining MCTS with Temporal Difference Learning?
+
+Ans- Combining MCTS with TDL allows leveraging heuristic value functions to improve tree and simulation policies.
+
+(-------------------------------------------------------------------------)
+
