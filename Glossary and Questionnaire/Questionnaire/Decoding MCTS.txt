@@ -568,3 +568,9 @@ Ans- TAG has outperformed traditional methods in optimizing automatic performanc
 
 (-------------------------------------------------------------------------)
 
+95- What is Rapidly-exploring Random Trees (RRTs)?
+
+Ans- RRTs explore search spaces by incrementally expanding a tree toward unexplored areas, akin to MCTS but focused on space exploration.
+
+(-------------------------------------------------------------------------)
+
