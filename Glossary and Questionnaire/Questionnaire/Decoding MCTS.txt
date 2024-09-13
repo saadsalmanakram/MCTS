@@ -190,3 +190,9 @@ Ans- MCTS grows the tree more in promising areas, focusing on regions that seem 
 
 (-------------------------------------------------------------------------)
 
+33- Why is memory usage a challenge for MCTS?
+
+Ans- The rapid growth of the search tree after several iterations requires significant memory resources.
+
+(-------------------------------------------------------------------------)
+
