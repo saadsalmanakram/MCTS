@@ -142,3 +142,9 @@ Ans- A random playout is conducted from the new node to a terminal state (win, l
 
 (-------------------------------------------------------------------------)
 
+25- What are combinatorial games in the context of MCTS?
+
+Ans- These are two-player games with perfect information, such as chess, Go, or tic-tac-toe.
+
+(-------------------------------------------------------------------------)
+
