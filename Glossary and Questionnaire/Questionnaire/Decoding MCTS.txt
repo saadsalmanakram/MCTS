@@ -496,3 +496,9 @@ Ans- UCT+ replaces opponent decision nodes with chance nodes and selects actions
 
 (-------------------------------------------------------------------------)
 
+84- What is Monte Carlo α-β (MCαβ)?
+
+Ans- MCαβ combines MCTS with traditional α-β pruning to enhance decision-making with shallow searches.
+
+(-------------------------------------------------------------------------)
+
