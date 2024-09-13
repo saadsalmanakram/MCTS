@@ -622,3 +622,9 @@ Ans- MRW selectively build search trees through random walks, focusing on local 
 
 (-------------------------------------------------------------------------)
 
+104- How does MRW-LTS differ from standard MCTS?
+
+Ans- MRW-LTS extends Monte Carlo Random Walks by concentrating on local search more than global exploration in planning problems.
+
+(-------------------------------------------------------------------------)
+
