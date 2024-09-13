@@ -1104,3 +1104,9 @@ Ans- Morpion Solitaire is a puzzle where players color vertices to form lines of
 
 (------------------------------------------------------------------------)
 
+184- How did Nested Monte Carlo Search (NMCS) improve Morpion Solitaire solutions?
+
+Ans- NMCS enhanced the solution by exploring more possible moves, leading to higher move counts in solutions, such as 80 moves for the non-touching version and 177 for the touching version.
+
+(------------------------------------------------------------------------)
+
