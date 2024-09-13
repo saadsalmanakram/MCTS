@@ -10,3 +10,9 @@ Ans- Unlike traditional algorithms that exhaustively explore the search space, M
 
 (-------------------------------------------------------------------------)
 
+3- What are the four key steps in MCTS?
+
+Ans- Selection, Expansion, Simulation, and Backpropagation.
+
+(-------------------------------------------------------------------------)
+
