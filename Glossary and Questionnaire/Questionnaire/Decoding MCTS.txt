@@ -430,3 +430,9 @@ Ans- Multi-Agent MCTS extends the standard MCTS by using multiple simulation pol
 
 (-------------------------------------------------------------------------)
 
+73- How does Multi-Agent MCTS improve playing strength?
+
+Ans- By leveraging interactions between different agents with varied heuristics, it leads to better exploration and stronger play.
+
+(-------------------------------------------------------------------------)
+
