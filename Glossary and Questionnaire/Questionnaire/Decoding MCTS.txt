@@ -454,3 +454,9 @@ Ans- Ensemble UCT often outperforms plain UCT given the same number of total ite
 
 (-------------------------------------------------------------------------)
 
+77- How is MCTS suited to real-time games?
+
+Ans- MCTS can handle real-time constraints well due to its anytime nature and asymmetric tree exploration.
+
+(-------------------------------------------------------------------------)
+
