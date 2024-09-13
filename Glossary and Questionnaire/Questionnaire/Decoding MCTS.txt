@@ -586,3 +586,9 @@ Ans- UNLEO is a UCT-based heuristic approximation of an optimal optimization alg
 
 (-------------------------------------------------------------------------)
 
+98- What makes Bayesian inference expensive in UNLEO?
+
+Ans- The complexity of evaluating objective functions is tackled by using UCT to make Bayesian inference computationally feasible.
+
+(-------------------------------------------------------------------------)
+
