@@ -160,3 +160,9 @@ Ans- MCTS focuses on promising branches by prioritizing exploration and uses ran
 
 (-------------------------------------------------------------------------)
 
+28- What are the advantages of MCTS?
+
+Ans- MCTS is domain-agnostic, can be halted anytime, and adapts asymmetrically to the search space.
+
+(-------------------------------------------------------------------------)
+
