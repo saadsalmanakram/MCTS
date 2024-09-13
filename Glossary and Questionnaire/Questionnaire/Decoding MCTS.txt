@@ -334,3 +334,9 @@ Ans- They estimate action values by running random playouts and progressively re
 
 (-------------------------------------------------------------------------)
 
+57- Why is UCB1 a good choice for MCTS?
+
+Ans- It balances the exploration-exploitation tradeoff efficiently and leads to logarithmic regret growth, ensuring robust performance in tree search.
+
+(-------------------------------------------------------------------------)
+
