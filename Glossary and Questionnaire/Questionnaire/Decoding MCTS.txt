@@ -460,3 +460,8 @@ Ans- MCTS can handle real-time constraints well due to its anytime nature and as
 
 (-------------------------------------------------------------------------)
 
+78- What is determinization in the context of MCTS?
+
+Ans- Determinization transforms a stochastic game into a deterministic one by fixing chance events, making it easier to analyze.
+
+(-------------------------------------------------------------------------)
