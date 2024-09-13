@@ -598,3 +598,9 @@ Ans- UCTSAT applies UCT to solve satisfiability problems in conjunctive normal f
 
 (-------------------------------------------------------------------------)
 
+100- What are the variations of UCTSAT?
+
+Ans- UCTSATcp (random assignment), UCTSATsbs (sequential assignment), and UCTSATh (heuristic-based playouts) are its main variations.
+
+(-------------------------------------------------------------------------)
+
