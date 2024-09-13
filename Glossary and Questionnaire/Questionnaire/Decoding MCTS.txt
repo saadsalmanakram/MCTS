@@ -574,3 +574,9 @@ Ans- RRTs explore search spaces by incrementally expanding a tree toward unexplo
 
 (-------------------------------------------------------------------------)
 
+96- How do RRTs relate to MCTS?
+
+Ans- Both share concepts like tree structure and exploration driven by random actions, often enhanced by heuristics.
+
+(-------------------------------------------------------------------------)
+
