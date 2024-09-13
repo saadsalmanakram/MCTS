@@ -376,3 +376,8 @@ Ans- UCT outperforms minimax in bounded trees with a single optimal action per s
 
 (-------------------------------------------------------------------------)
 
+64- What is the difference between MCTS and UCT?
+
+Ans- UCT is a variation of MCTS that uses UCB for tree selection.
+
+(-------------------------------------------------------------------------)
