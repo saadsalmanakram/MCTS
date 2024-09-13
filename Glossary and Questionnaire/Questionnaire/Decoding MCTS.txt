@@ -1259,3 +1259,10 @@ Ans- By integrating constraint propagation techniques to enhance performance ove
 Ans- MCTS with heuristics improves solution quality and efficiency in scheduling tasks.
 
 (-------------------------------------------------------------------------)
+
+210- How does MCTS help in procedural content generation (PCG)?
+
+Ans- It generates a range of good solutions by leveraging its inherent restart mechanism and local iterated search.
+
+(-------------------------------------------------------------------------)
+
