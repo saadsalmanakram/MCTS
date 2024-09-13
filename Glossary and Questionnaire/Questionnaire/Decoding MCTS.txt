@@ -1266,3 +1266,9 @@ Ans- It generates a range of good solutions by leveraging its inherent restart m
 
 (-------------------------------------------------------------------------)
 
+211- What is the application of Feature UCT Selection (FUSE) in feature selection?
+
+Ans- FUSE achieves state-of-the-art performance in reducing features and selecting relevant ones.
+
+(-------------------------------------------------------------------------)
+
