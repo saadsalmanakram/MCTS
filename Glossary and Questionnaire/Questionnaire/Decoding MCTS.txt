@@ -634,3 +634,9 @@ Ans- MHSP is a planning algorithm that replaces random simulations in MCTS with 
 
 (-------------------------------------------------------------------------)
 
+106- What makes MHSP an anytime algorithm?
+
+Ans- MHSP can generate partial plans even before finding a complete solution, providing useful intermediate results.
+
+(-------------------------------------------------------------------------)
+
