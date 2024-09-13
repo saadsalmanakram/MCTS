@@ -1248,3 +1248,8 @@ Ans- UCT scales better for increasing problem size than techniques like asynchro
 
 (-------------------------------------------------------------------------)
 
+208- In what way does MCTS contribute to constraint satisfaction problems?
+
+Ans- By integrating constraint propagation techniques to enhance performance over random selections.
+
+(-------------------------------------------------------------------------)
