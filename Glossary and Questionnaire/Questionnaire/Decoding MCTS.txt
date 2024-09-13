@@ -64,3 +64,9 @@ Ans- It’s the balance between exploring new and potentially better moves and e
 
 (-------------------------------------------------------------------------)
 
+12- What are some advantages of using MCTS?
+
+Ans- MCTS can handle complex games, adapt to imperfect information, learn from simulations, and is scalable and parallelizable.
+
+(-------------------------------------------------------------------------)
+
