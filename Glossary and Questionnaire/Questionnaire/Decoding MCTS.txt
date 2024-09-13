@@ -88,3 +88,9 @@ Ans- Heuristics guide the search process, helping to prioritize nodes or actions
 
 (-------------------------------------------------------------------------)
 
+16- Can MCTS be applied to domains outside of game playing?
+
+Ans- Yes, MCTS principles are applicable to various domains such as planning, scheduling, and optimization, beyond traditional game playing.
+
+(-------------------------------------------------------------------------)
+
