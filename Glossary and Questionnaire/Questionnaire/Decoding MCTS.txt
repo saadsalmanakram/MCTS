@@ -1128,3 +1128,9 @@ Ans- MCTS was used to solve Sudoku and Kakuro puzzles more efficiently than trad
 
 (------------------------------------------------------------------------)
 
+188- What is CADIAPLAYER and its significance in GGP?
+
+Ans- CADIAPLAYER is an MCTS-based GGP agent that won the AAAI GGP competitions in 2007 and 2008, demonstrating the effectiveness of UCT for general game playing.
+
+(------------------------------------------------------------------------)
+
