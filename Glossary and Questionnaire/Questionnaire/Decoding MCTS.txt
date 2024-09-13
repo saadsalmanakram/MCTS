@@ -436,3 +436,9 @@ Ans- By leveraging interactions between different agents with varied heuristics,
 
 (-------------------------------------------------------------------------)
 
+74- What is the challenge in Multi-Agent MCTS?
+
+Ans- Finding the right set of agents with properties that improve playing strength is computationally intensive.
+
+(-------------------------------------------------------------------------)
+
