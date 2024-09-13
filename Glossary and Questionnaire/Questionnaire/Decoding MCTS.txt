@@ -1158,3 +1158,9 @@ Ans- MCTS was applied to Tron with specific modifications to handle self-entrapm
 
 (------------------------------------------------------------------------)
 
+193- Describe the use of UCT in the Dead-End game.
+
+Ans- UCT was used for the behavior of dogs in Dead-End, showing better performance with increased simulation time compared to flat Monte Carlo approaches.
+
+(------------------------------------------------------------------------)
+
