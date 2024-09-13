@@ -676,3 +676,15 @@ Ans- It allows more accurate estimation of node values and uncertainties using a
 
 (------------------------------------------------------------------------)
 
+113- What problem does the EXP3 algorithm address in MCTS?
+
+Ans- It addresses games with partial observability and simultaneous moves.
+
+(------------------------------------------------------------------------)
+
+114- What is Hierarchical Optimistic Optimisation for Trees (HOOT)?
+
+Ans- It generalizes stochastic bandits to overcome the discrete action limitation of UCT.
+
+(------------------------------------------------------------------------)
+
