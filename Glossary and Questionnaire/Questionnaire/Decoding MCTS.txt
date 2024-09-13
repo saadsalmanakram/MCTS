@@ -1253,3 +1253,9 @@ Ans- UCT scales better for increasing problem size than techniques like asynchro
 Ans- By integrating constraint propagation techniques to enhance performance over random selections.
 
 (-------------------------------------------------------------------------)
+
+209- What is a key benefit of using MCTS for scheduling problems like printer scheduling?
+
+Ans- MCTS with heuristics improves solution quality and efficiency in scheduling tasks.
+
+(-------------------------------------------------------------------------)
