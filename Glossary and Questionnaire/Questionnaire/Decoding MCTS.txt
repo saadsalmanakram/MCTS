@@ -616,3 +616,9 @@ Ans- MC-AIXA, built using ρUCT, approaches optimal performance across various p
 
 (-------------------------------------------------------------------------)
 
+103- What are Monte Carlo Random Walks (MRW)?
+
+Ans- MRW selectively build search trees through random walks, focusing on local search to solve planning problems efficiently.
+
+(-------------------------------------------------------------------------)
+
