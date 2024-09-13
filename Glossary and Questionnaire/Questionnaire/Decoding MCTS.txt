@@ -850,3 +850,9 @@ Ans- PNS is a technique for proving game-theoretic values by prioritizing nodes 
 
 (------------------------------------------------------------------------)
 
+142- How does Proof-Number Search (PNS) handle non-terminal states?
+
+Ans- Non-terminal states are proven wins if at least one child is a proven win, or proven losses if all children are proven losses.
+
+(------------------------------------------------------------------------)
+
