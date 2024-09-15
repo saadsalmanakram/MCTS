@@ -1488,6 +1488,11 @@ Ans- The weighting parameter decays from 1 to 0 as visit counts increase, interp
 
 (-------------------------------------------------------------------------)
 
+248- What are some limitations of RAVE in games like RTS?
+
+Ans- In RTS games, small changes in nearby unit positions can mislead RAVE's action value estimates, leading to inaccurate assessments.
+
+(-------------------------------------------------------------------------)
 
 
 
