@@ -1278,3 +1278,11 @@ Ans- It struggles in high-complexity problems without modifications, especially 
 
 (-------------------------------------------------------------------------)
 
+213- What is determinization in MCTS?
+
+Ans- It removes uncertainty by assuming fixed values for unknown variables in games with imperfect information.
+
+(-------------------------------------------------------------------------)
+
+
+
