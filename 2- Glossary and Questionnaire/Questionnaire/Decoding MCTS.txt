@@ -1614,6 +1614,12 @@ Ans- A chance node represents a point in the game where random events or hidden 
 
 (-------------------------------------------------------------------------)
 
+269- How does recursive MCTS (IIMCTS) prevent information leakage in playouts?
+
+Ans- IIMCTS restricts playouts to avoid adapting to hidden information, preventing leakage of private data like an opponent's hand in card games.
+
+(-------------------------------------------------------------------------)
+
 
 
 
