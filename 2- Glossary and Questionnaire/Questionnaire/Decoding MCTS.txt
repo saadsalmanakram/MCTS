@@ -1458,6 +1458,13 @@ Ans- By recognizing and exploiting effective sequences of actions rather than ev
 
 (-------------------------------------------------------------------------)
 
+243- What's the main difference between standard MCTS and History Heuristic-enhanced MCTS?
+
+Ans- The enhanced version uses global action statistics to influence selection, whereas standard MCTS relies on local statistics within the tree.
+
+(-------------------------------------------------------------------------)
+
+
 
 
 
