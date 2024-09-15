@@ -1308,5 +1308,11 @@ Ans- A random simulation is performed from the current state to estimate the out
 
 (-------------------------------------------------------------------------)
 
+218- What is 'Backpropagation' in MCTS?
+
+Ans- It updates the values of nodes along the path from the leaf node to the root based on the simulation outcome.
+
+(-------------------------------------------------------------------------)
+
 
 
