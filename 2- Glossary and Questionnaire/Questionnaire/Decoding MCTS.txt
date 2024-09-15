@@ -1272,3 +1272,9 @@ Ans- FUSE achieves state-of-the-art performance in reducing features and selecti
 
 (-------------------------------------------------------------------------)
 
+212- What is the limitation of vanilla MCTS?
+
+Ans- It struggles in high-complexity problems without modifications, especially when computational resources are limited.
+
+(-------------------------------------------------------------------------)
+
