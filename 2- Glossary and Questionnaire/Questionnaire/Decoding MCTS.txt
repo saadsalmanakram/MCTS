@@ -1344,6 +1344,12 @@ Ans- MCTS can handle uncertainty by simulating multiple possibilities and choosi
 
 (-------------------------------------------------------------------------)
 
+224- What is General Video Game Playing (GVGP)?
+
+Ans- GVGP focuses on agents playing various 2D real-time video games with limited decision time, typically using MCTS.
+
+(-------------------------------------------------------------------------)
+
 
 
 
