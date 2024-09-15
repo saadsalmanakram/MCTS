@@ -1608,6 +1608,12 @@ Ans- ISMCTS uses information sets to combine similar game states, reducing the e
 
 (-------------------------------------------------------------------------)
 
+268- What is a chance node in MCTS for games with imperfect information?
+
+Ans- A chance node represents a point in the game where random events or hidden information (e.g., card draws) affect the state.
+
+(-------------------------------------------------------------------------)
+
 
 
 
