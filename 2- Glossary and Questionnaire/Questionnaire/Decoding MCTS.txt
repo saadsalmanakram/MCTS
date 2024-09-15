@@ -1392,6 +1392,12 @@ Ans- An enhancement that stores the best counteractions to opponents' moves glob
 
 (-------------------------------------------------------------------------)
 
+232- How does LGRP differ from the standard History Heuristic?
+
+Ans- LGRP focuses on storing and utilizing the best replies to specific actions, whereas the History Heuristic tracks overall action success.
+
+(-------------------------------------------------------------------------)
+
 
 
 
