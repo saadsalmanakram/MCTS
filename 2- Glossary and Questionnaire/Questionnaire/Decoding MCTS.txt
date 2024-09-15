@@ -1494,6 +1494,13 @@ Ans- In RTS games, small changes in nearby unit positions can mislead RAVE's act
 
 (-------------------------------------------------------------------------)
 
+249- How does the Maximum Frequency method address non-uniform tree shapes in MCTS?
+
+Ans- It adjusts thresholds used in score recalculations to maximize the difference between optimal and non-optimal moves, refining the decision process.
+
+(-------------------------------------------------------------------------)
+
+
 
 
 
