@@ -1542,6 +1542,12 @@ Ans- Strategy fusion, non-locality, and sharing computational budget across mult
 
 (-------------------------------------------------------------------------)
 
+257- How does Information Set MCTS (ISMCTS) address the challenges of determinization?
+
+Ans- ISMCTS uses information sets to group states indistinguishable to a player, optimizing computational resources and reducing strategy fusion.
+
+(_------------------------------------------------------------------------)
+
 
 
 
