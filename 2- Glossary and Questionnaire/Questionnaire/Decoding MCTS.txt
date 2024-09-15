@@ -1464,6 +1464,12 @@ Ans- The enhanced version uses global action statistics to influence selection, 
 
 (-------------------------------------------------------------------------)
 
+244- Why must one be cautious when introducing biases like the History Heuristic into MCTS?
+
+Ans- Because biases can limit exploration and adaptability, potentially leading to suboptimal performance in varied situations.
+
+(-------------------------------------------------------------------------)
+
 
 
 
