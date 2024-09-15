@@ -1452,6 +1452,12 @@ Ans- Games where certain actions are generally advantageous regardless of the sp
 
 (-------------------------------------------------------------------------)
 
+242- How do n-grams in NST enhance MCTS performance?
+
+Ans- By recognizing and exploiting effective sequences of actions rather than evaluating actions in isolation.
+
+(-------------------------------------------------------------------------)
+
 
 
 
