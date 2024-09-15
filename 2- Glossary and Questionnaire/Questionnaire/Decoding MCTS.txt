@@ -1404,6 +1404,12 @@ Ans- NST stores statistics for sequences of actions (n-grams) to better capture 
 
 (-------------------------------------------------------------------------)
 
+234- Why might introducing a bias like the History Heuristic improve MCTS performance?
+
+Ans- It can accelerate convergence by focusing on actions that have historically yielded better outcomes.
+
+(-------------------------------------------------------------------------)
+
 
 
 
