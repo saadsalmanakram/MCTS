@@ -1338,6 +1338,12 @@ Ans- In perfect information games, all players have complete knowledge of the ga
 
 (-------------------------------------------------------------------------)
 
+223- Why is MCTS well-suited for imperfect information games?
+
+Ans- MCTS can handle uncertainty by simulating multiple possibilities and choosing actions that work well across many outcomes.
+
+(-------------------------------------------------------------------------)
+
 
 
 
