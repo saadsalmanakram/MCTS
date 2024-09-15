@@ -1386,6 +1386,12 @@ Ans- By using global action statistics to preferentially select actions that hav
 
 (-------------------------------------------------------------------------)
 
+231- What is the Last-Good Reply Policy (LGRP)?
+
+Ans- An enhancement that stores the best counteractions to opponents' moves globally to improve action selection.
+
+(-------------------------------------------------------------------------)
+
 
 
 
