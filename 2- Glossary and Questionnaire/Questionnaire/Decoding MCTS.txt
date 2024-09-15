@@ -1350,6 +1350,12 @@ Ans- GVGP focuses on agents playing various 2D real-time video games with limite
 
 (-------------------------------------------------------------------------)
 
+225- What are the common modifications of MCTS for handling RTS games?
+
+Ans- Handling large branching factors, real-time decisions, and partial observability are key challenges, addressed with variations like belief-state sampling.
+
+(-------------------------------------------------------------------------)
+
 
 
 
