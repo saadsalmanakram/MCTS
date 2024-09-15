@@ -1596,6 +1596,12 @@ Ans- Strategy fusion occurs when different strategies are applied inconsistently
 
 (-------------------------------------------------------------------------)
 
+266- What is non-locality in the context of PIMC?
+
+Ans- Non-locality refers to the challenge where optimal decisions in subgames don't necessarily lead to globally optimal outcomes.
+
+(-------------------------------------------------------------------------)
+
 
 
 
