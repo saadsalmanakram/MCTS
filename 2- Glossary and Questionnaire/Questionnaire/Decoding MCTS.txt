@@ -1428,6 +1428,12 @@ Ans- It is used to rank unexplored actions during both the selection and simulat
 
 (-------------------------------------------------------------------------)
 
+238- Why is global storage of action statistics beneficial in MCTS?
+
+Ans- It allows for the accumulation of broader experience, improving the quality of action selection across different states.
+
+(-------------------------------------------------------------------------)
+
 
 
 
