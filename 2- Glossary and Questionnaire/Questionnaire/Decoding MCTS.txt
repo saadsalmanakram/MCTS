@@ -1524,6 +1524,12 @@ Ans- Heavy playouts incorporate domain knowledge into simulations, reducing the 
 
 (-------------------------------------------------------------------------)
 
+254- How does the sufficiency threshold modify the UCT formula in MCTS?
+
+Ans- It replaces the exploration constant with a function that discounts exploration for sufficiently good moves, rearranging move order based on current estimates.
+
+(-------------------------------------------------------------------------)
+
 
 
 
