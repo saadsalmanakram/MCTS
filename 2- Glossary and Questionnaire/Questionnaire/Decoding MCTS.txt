@@ -1566,6 +1566,12 @@ Ans- Policy updates can modify the tree-building or playout phases using techniq
 
 (-------------------------------------------------------------------------)
 
+261- What is the RAVE method in MCTS?
+
+Ans- RAVE (Rapid Action Value Estimation) enhances MCTS by applying independent sampling to update the default policy with action value estimates.
+
+(-------------------------------------------------------------------------)
+
 
 
 
