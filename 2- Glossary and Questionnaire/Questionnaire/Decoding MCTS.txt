@@ -1620,6 +1620,12 @@ Ans- IIMCTS restricts playouts to avoid adapting to hidden information, preventi
 
 (-------------------------------------------------------------------------)
 
+270- What is Dynamic Difficulty Adjustment (DDA) in MCTS?
+
+Ans- DDA dynamically adjusts the difficulty of a game based on the player's skill level to keep the game challenging and engaging.
+
+(-------------------------------------------------------------------------)
+
 
 
 
