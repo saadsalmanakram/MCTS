@@ -1530,6 +1530,12 @@ Ans- It replaces the exploration constant with a function that discounts explora
 
 (-------------------------------------------------------------------------)
 
+255- What is the main challenge of applying MCTS to games with imperfect information?
+
+Ans- The hidden information in games increases the branching factor, requiring complex probabilistic handling of game states.
+
+(-------------------------------------------------------------------------)
+
 
 
 
