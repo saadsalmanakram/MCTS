@@ -1554,6 +1554,12 @@ Ans- Heavy playouts introduce domain-specific knowledge into the simulation phas
 
 (-------------------------------------------------------------------------)
 
+259- What is the balance required in heavy playouts for MCTS?
+
+Ans- A balance between randomness and heuristics is needed to explore the solution space while incorporating expert knowledge.
+
+(-------------------------------------------------------------------------)
+
 
 
 
