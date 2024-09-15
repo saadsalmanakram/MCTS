@@ -1410,6 +1410,17 @@ Ans- It can accelerate convergence by focusing on actions that have historically
 
 (-------------------------------------------------------------------------)
 
+235- What is a potential downside of using the History Heuristic in MCTS?
+
+Ans- It may introduce bias that reduces performance in some problems by overlooking less-explored but potentially optimal actions.
+
+(-------------------------------------------------------------------------)
+
+236- How does the Boltzmann Distribution differ from ε-greedy in action selection?
+
+Ans- It selects actions probabilistically based on their estimated values, providing a smoother preference compared to the ε-greedy method.
+
+(-------------------------------------------------------------------------)
 
 
 
