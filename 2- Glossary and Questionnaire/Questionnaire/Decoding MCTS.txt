@@ -1422,6 +1422,13 @@ Ans- It selects actions probabilistically based on their estimated values, provi
 
 (-------------------------------------------------------------------------)
 
+237- In what phase of MCTS is LGRP typically used?
+
+Ans- It is used to rank unexplored actions during both the selection and simulation phases.
+
+(-------------------------------------------------------------------------)
+
+
 
 
 
