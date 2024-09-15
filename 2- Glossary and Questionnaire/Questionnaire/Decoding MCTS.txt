@@ -1590,6 +1590,12 @@ Ans- Opponent modeling helps predict and simulate the opponent’s strategy, all
 
 (-------------------------------------------------------------------------)
 
+265- What is strategy fusion in MCTS and why is it a problem?
+
+Ans- Strategy fusion occurs when different strategies are applied inconsistently across determinized states, leading to suboptimal decisions.
+
+(-------------------------------------------------------------------------)
+
 
 
 
