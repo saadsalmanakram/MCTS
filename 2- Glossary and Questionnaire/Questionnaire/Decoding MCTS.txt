@@ -1374,6 +1374,12 @@ Ans- It's an enhancement that assumes historically good actions are likely to be
 
 (-------------------------------------------------------------------------)
 
+229- What is the ε-greedy method in the context of MCTS?
+
+Ans- It's a strategy where the best historical action is chosen with probability ε, and a random action is selected with probability 1 - ε.
+
+(-------------------------------------------------------------------------)
+
 
 
 
