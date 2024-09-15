@@ -1434,6 +1434,12 @@ Ans- It allows for the accumulation of broader experience, improving the quality
 
 (-------------------------------------------------------------------------)
 
+239- What assumption underlies the use of the History Heuristic?
+
+Ans- That the effectiveness of an action is relatively independent of the state in which it's performed.
+
+(-------------------------------------------------------------------------)
+
 
 
 
