@@ -1482,6 +1482,12 @@ Ans- RAVE shares action values across subtrees, increasing the data available fo
 
 (-------------------------------------------------------------------------)
 
+247- What is the role of the weighting parameter in MCTS-RAVE?
+
+Ans- The weighting parameter decays from 1 to 0 as visit counts increase, interpolating between AMAF values and unbiased Monte Carlo values.
+
+(-------------------------------------------------------------------------)
+
 
 
 
