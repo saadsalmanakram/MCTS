@@ -1578,6 +1578,12 @@ Ans- RIDE (Rapid Incentive Difference Evaluation) updates MCTS policies using pa
 
 (-------------------------------------------------------------------------)
 
+263- How does Online Outcome Sampling (OOS) improve MCTS in imperfect information games?
+
+Ans- OOS targets relevant parts of the game tree and converges closer to Nash Equilibrium using incremental tree building.
+
+(-------------------------------------------------------------------------)
+
 
 
 
