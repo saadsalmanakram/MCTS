@@ -1602,6 +1602,12 @@ Ans- Non-locality refers to the challenge where optimal decisions in subgames do
 
 (-------------------------------------------------------------------------)
 
+267- How does ISMCTS handle imperfect information more efficiently than PIMC?
+
+Ans- ISMCTS uses information sets to combine similar game states, reducing the effects of strategy fusion and improving resource allocation.
+
+(-------------------------------------------------------------------------)
+
 
 
 
