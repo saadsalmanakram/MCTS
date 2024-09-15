@@ -1296,5 +1296,17 @@ Ans- It selects the next node to explore based on a tree policy until reaching a
 
 (-------------------------------------------------------------------------)
 
+216- What is the 'Expansion' phase in MCTS?
+
+Ans- It adds new nodes to the tree, representing unexplored states or actions.
+
+(-------------------------------------------------------------------------)
+
+217- What happens during the 'Simulation' phase in MCTS?
+
+Ans- A random simulation is performed from the current state to estimate the outcome of the game.
+
+(-------------------------------------------------------------------------)
+
 
 
