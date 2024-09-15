@@ -1398,6 +1398,12 @@ Ans- LGRP focuses on storing and utilizing the best replies to specific actions,
 
 (-------------------------------------------------------------------------)
 
+233- What is the N-grams Selection Technique (NST) in MCTS?
+
+Ans- NST stores statistics for sequences of actions (n-grams) to better capture patterns in action effectiveness.
+
+(-------------------------------------------------------------------------)
+
 
 
 
