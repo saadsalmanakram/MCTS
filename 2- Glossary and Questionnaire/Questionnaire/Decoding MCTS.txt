@@ -1500,6 +1500,12 @@ Ans- It adjusts thresholds used in score recalculations to maximize the differen
 
 (-------------------------------------------------------------------------)
 
+250- What is the problem of ‘optimistic actions’ in MCTS, and how is it mitigated?
+
+Ans- Optimistic actions initially seem promising but are refutable. They are mitigated by using a sufficiency threshold that discounts exploration for sufficiently good moves.
+
+(-------------------------------------------------------------------------)
+
 
 
 
