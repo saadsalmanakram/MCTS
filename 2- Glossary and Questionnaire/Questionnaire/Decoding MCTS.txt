@@ -1362,6 +1362,19 @@ Ans- Thompson Sampling is a heuristic exploration-exploitation approach based on
 
 (-------------------------------------------------------------------------)
 
+227- What is EXP3, and why might it be used in MCTS?
+
+Ans- EXP3 is a multi-armed bandit algorithm that doesn't assume any reward distribution, useful for environments with partial observability.
+
+(-------------------------------------------------------------------------)
+
+228- What is the History Heuristic in MCTS?
+
+Ans- It's an enhancement that assumes historically good actions are likely to be good again, storing global statistics to bias action selection.
+
+(-------------------------------------------------------------------------)
+
+
 
 
 
