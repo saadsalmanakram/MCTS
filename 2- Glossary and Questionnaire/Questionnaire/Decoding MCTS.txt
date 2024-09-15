@@ -1284,5 +1284,11 @@ Ans- It removes uncertainty by assuming fixed values for unknown variables in ga
 
 (-------------------------------------------------------------------------)
 
+214- What is the Master Combination in MCTS?
+
+Ans- It refers to using multiple MCTS modifications together to optimize performance in competitive scenarios.
+
+(-------------------------------------------------------------------------)
+
 
 
