@@ -1506,6 +1506,12 @@ Ans- Optimistic actions initially seem promising but are refutable. They are mit
 
 (-------------------------------------------------------------------------)
 
+251- What are hybrid MCTS-minimax algorithms, and why are they used?
+
+Ans- These algorithms combine shallow minimax search with MCTS to avoid the pitfalls of averaging outcomes, especially in games with tactical traps.
+
+(-------------------------------------------------------------------------)
+
 
 
 
