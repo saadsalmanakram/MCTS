@@ -1512,6 +1512,11 @@ Ans- These algorithms combine shallow minimax search with MCTS to avoid the pitf
 
 (-------------------------------------------------------------------------)
 
+252- What is the impact of early termination in MCTS simulations?
+
+Ans- Early termination cuts off simulations at a certain depth and applies minimax-style evaluations, saving time but potentially introducing evaluation uncertainty.
+
+(-------------------------------------------------------------------------)
 
 
 
