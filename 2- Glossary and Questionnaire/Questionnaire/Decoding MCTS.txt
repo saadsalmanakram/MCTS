@@ -1572,6 +1572,12 @@ Ans- RAVE (Rapid Action Value Estimation) enhances MCTS by applying independent 
 
 (-------------------------------------------------------------------------)
 
+262- What is the RIDE method in MCTS?
+
+Ans- RIDE (Rapid Incentive Difference Evaluation) updates MCTS policies using pairwise sampling of action values to improve decision-making.
+
+(-------------------------------------------------------------------------)
+
 
 
 
