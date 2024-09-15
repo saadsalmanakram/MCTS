@@ -1560,6 +1560,12 @@ Ans- A balance between randomness and heuristics is needed to explore the soluti
 
 (-------------------------------------------------------------------------)
 
+260- How can policy updates improve MCTS performance?
+
+Ans- Policy updates can modify the tree-building or playout phases using techniques like RAVE or heuristics to bias decision-making.
+
+(-------------------------------------------------------------------------)
+
 
 
 
