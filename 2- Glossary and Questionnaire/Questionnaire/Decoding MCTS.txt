@@ -1536,6 +1536,12 @@ Ans- The hidden information in games increases the branching factor, requiring c
 
 (-------------------------------------------------------------------------)
 
+256- What are the three main challenges of Perfect Information MCTS (PIMC)?
+
+Ans- Strategy fusion, non-locality, and sharing computational budget across multiple trees.
+
+(-------------------------------------------------------------------------)
+
 
 
 
