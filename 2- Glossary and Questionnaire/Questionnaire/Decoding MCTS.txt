@@ -1632,6 +1632,12 @@ Ans- MCTS can be trained with human data to predict and imitate human actions, l
 
 (-------------------------------------------------------------------------)
 
+272- How can biasing techniques improve MCTS to emulate human players?
+
+Ans- Biasing the UCT formula with human-trained neural networks helps MCTS better mimic human decision-making patterns.
+
+(-------------------------------------------------------------------------)
+
 
 
 
