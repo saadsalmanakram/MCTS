@@ -1476,6 +1476,12 @@ Ans- AMAF evaluates moves based on how often and how successfully they were play
 
 (-------------------------------------------------------------------------)
 
+246- How does Rapid Value Estimation (RAVE) improve MCTS?
+
+Ans- RAVE shares action values across subtrees, increasing the data available for each move, which can speed up convergence but may introduce noise.
+
+(-------------------------------------------------------------------------)
+
 
 
 
