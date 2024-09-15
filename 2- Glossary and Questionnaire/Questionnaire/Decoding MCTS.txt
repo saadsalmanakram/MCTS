@@ -1546,7 +1546,13 @@ Ans- Strategy fusion, non-locality, and sharing computational budget across mult
 
 Ans- ISMCTS uses information sets to group states indistinguishable to a player, optimizing computational resources and reducing strategy fusion.
 
-(_------------------------------------------------------------------------)
+(-------------------------------------------------------------------------)
+
+258- What is the role of heavy playouts in MCTS?
+
+Ans- Heavy playouts introduce domain-specific knowledge into the simulation phase, improving the realism and performance of rollouts.
+
+(-------------------------------------------------------------------------)
 
 
 
