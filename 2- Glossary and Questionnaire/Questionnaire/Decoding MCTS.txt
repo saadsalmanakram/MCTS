@@ -1314,5 +1314,12 @@ Ans- It updates the values of nodes along the path from the leaf node to the roo
 
 (-------------------------------------------------------------------------)
 
+219- What is the Upper Confidence Bounds for Trees (UCT) formula used for?
+
+Ans- UCT is used to balance exploration and exploitation in MCTS by selecting actions based on both the expected reward and the uncertainty of the action.
+
+(-------------------------------------------------------------------------)
+
+
 
 
