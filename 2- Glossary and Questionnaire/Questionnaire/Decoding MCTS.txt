@@ -1332,6 +1332,12 @@ Ans- GGP involves creating agents that can play various games without prior know
 
 (-------------------------------------------------------------------------)
 
+222- What is the difference between perfect and imperfect information games?
+
+Ans- In perfect information games, all players have complete knowledge of the game state, while in imperfect information games, some information is hidden from players.
+
+(-------------------------------------------------------------------------)
+
 
 
 
