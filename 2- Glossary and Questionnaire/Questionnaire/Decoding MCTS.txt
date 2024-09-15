@@ -1584,6 +1584,12 @@ Ans- OOS targets relevant parts of the game tree and converges closer to Nash Eq
 
 (-------------------------------------------------------------------------)
 
+264- What is the role of opponent modeling in MCTS for imperfect information games?
+
+Ans- Opponent modeling helps predict and simulate the opponent’s strategy, allowing more informed decision-making.
+
+(-------------------------------------------------------------------------)
+
 
 
 
