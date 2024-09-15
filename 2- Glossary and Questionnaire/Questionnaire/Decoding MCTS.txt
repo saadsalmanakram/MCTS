@@ -1440,6 +1440,12 @@ Ans- That the effectiveness of an action is relatively independent of the state 
 
 (-------------------------------------------------------------------------)
 
+240- How does the ε-greedy method balance exploration and exploitation?
+
+Ans- By occasionally selecting random actions (exploration) while mostly choosing the best historical actions (exploitation).
+
+(-------------------------------------------------------------------------)
+
 
 
 
