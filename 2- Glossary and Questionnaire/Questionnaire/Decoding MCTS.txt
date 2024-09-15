@@ -1446,6 +1446,12 @@ Ans- By occasionally selecting random actions (exploration) while mostly choosin
 
 (-------------------------------------------------------------------------)
 
+241- What types of games benefit most from the History Heuristic in MCTS?
+
+Ans- Games where certain actions are generally advantageous regardless of the specific state, like some board and strategy games.
+
+(-------------------------------------------------------------------------)
+
 
 
 
