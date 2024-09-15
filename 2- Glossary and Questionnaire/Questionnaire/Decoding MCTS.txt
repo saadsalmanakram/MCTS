@@ -1356,6 +1356,11 @@ Ans- Handling large branching factors, real-time decisions, and partial observab
 
 (-------------------------------------------------------------------------)
 
+226- What is Thompson Sampling, and how is it related to MCTS?
+
+Ans- Thompson Sampling is a heuristic exploration-exploitation approach based on Bayesian inference, sometimes used as a tree policy in MCTS.
+
+(-------------------------------------------------------------------------)
 
 
 
