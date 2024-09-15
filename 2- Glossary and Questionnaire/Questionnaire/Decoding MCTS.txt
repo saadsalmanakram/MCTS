@@ -1470,6 +1470,12 @@ Ans- Because biases can limit exploration and adaptability, potentially leading 
 
 (-------------------------------------------------------------------------)
 
+245- What is the All-Moves-As-First (AMAF) heuristic?
+
+Ans- AMAF evaluates moves based on how often and how successfully they were played across all simulations, rather than treating each state–action pair independently.
+
+(-------------------------------------------------------------------------)
+
 
 
 
