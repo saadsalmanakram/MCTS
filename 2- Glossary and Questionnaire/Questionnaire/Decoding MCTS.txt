@@ -1518,6 +1518,13 @@ Ans- Early termination cuts off simulations at a certain depth and applies minim
 
 (-------------------------------------------------------------------------)
 
+253- How do heavy playouts improve MCTS performance?
+
+Ans- Heavy playouts incorporate domain knowledge into simulations, reducing the risk of MCTS converging on suboptimal moves.
+
+(-------------------------------------------------------------------------)
+
+
 
 
 
