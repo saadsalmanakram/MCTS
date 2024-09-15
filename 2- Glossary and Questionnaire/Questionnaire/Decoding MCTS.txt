@@ -1380,6 +1380,12 @@ Ans- It's a strategy where the best historical action is chosen with probability
 
 (-------------------------------------------------------------------------)
 
+230- How does the History Heuristic bias simulations in MCTS?
+
+Ans- By using global action statistics to preferentially select actions that have performed well historically.
+
+(-------------------------------------------------------------------------)
+
 
 
 
