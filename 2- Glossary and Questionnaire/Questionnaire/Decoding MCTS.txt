@@ -1320,6 +1320,12 @@ Ans- UCT is used to balance exploration and exploitation in MCTS by selecting ac
 
 (-------------------------------------------------------------------------)
 
+220- How does UCT manage the exploration-exploitation trade-off?
+
+Ans- UCT uses a formula that incorporates both the average value of an action and a term that favors less-explored actions.
+
+(-------------------------------------------------------------------------)
+
 
 
 
