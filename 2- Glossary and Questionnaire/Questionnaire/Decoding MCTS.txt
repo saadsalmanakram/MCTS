@@ -1326,6 +1326,13 @@ Ans- UCT uses a formula that incorporates both the average value of an action an
 
 (-------------------------------------------------------------------------)
 
+221- What is General Game Playing (GGP) and its relation to MCTS?
+
+Ans- GGP involves creating agents that can play various games without prior knowledge, often relying on MCTS to simulate possible actions.
+
+(-------------------------------------------------------------------------)
+
+
 
 
 
