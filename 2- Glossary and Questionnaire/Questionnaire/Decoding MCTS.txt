@@ -1290,5 +1290,11 @@ Ans- It refers to using multiple MCTS modifications together to optimize perform
 
 (-------------------------------------------------------------------------)
 
+215- What is the role of the 'Selection' phase in MCTS?
+
+Ans- It selects the next node to explore based on a tree policy until reaching a leaf node.
+
+(-------------------------------------------------------------------------)
+
 
 
