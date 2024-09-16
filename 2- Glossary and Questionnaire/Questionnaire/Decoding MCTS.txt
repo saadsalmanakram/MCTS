@@ -1974,6 +1974,13 @@ Ans- It uses three neural networks—Rollout policy network, In-score filter net
 
 (------------------------------------------------------------------------)
 
+329- What is the role of the In-score filter network in 3N-MCTS?
+
+Ans- It predicts if a particular reaction will work and discards non-promising transformations.
+
+(------------------------------------------------------------------------)
+
+
 
 
 
