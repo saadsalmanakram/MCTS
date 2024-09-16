@@ -1980,6 +1980,18 @@ Ans- It predicts if a particular reaction will work and discards non-promising t
 
 (------------------------------------------------------------------------)
 
+330- How does the Expansion policy network contribute to the MCTS process?
+
+Ans- It selects the most promising node to expand in the MCTS tree.
+
+(------------------------------------------------------------------------)
+
+331- Why is combining deep neural networks with MCTS effective in chemical synthesis?
+
+Ans- It drastically reduces combinatorial complexity by guiding the search through learned chemistry knowledge.
+
+(-------------------------------------------------------------------------)
+
 
 
 
