@@ -1824,4 +1824,10 @@ Ans- Evolving heuristic functions can improve performance by providing more effe
 
 (------------------------------------------------------------------------)
 
+304- What is the main focus of evolving policies in MCTS?
+
+Ans- To optimize the tree policy and default simulation policy using evolutionary computation.
+
+(------------------------------------------------------------------------)
+
 
