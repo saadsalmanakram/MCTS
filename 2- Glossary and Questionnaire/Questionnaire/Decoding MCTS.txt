@@ -1812,3 +1812,10 @@ Ans- Challenges include the need for high-quality and large volumes of data, avo
 
 (------------------------------------------------------------------------)
 
+302- How does TD learning improve the simulation phase in MCTS?
+
+Ans- TD learning can adapt the policy used in simulations by evaluating states more accurately and learning from past simulations to enhance performance.
+
+(------------------------------------------------------------------------)
+
+
