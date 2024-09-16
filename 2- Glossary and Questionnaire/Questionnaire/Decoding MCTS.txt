@@ -1650,6 +1650,11 @@ Ans- The policy function and the value function, both modeled with deep convolut
 
 (-------------------------------------------------------------------------)
 
+275- What is the role of the value function in the AlphaGo architecture?
+
+Ans- It approximates the outcome of the game from a given state, helping predict the game’s result.
+
+(-------------------------------------------------------------------------)
 
 
 
