@@ -1854,4 +1854,10 @@ Ans- It dynamically extracts features from game states and evolves them to bias 
 
 (------------------------------------------------------------------------)
 
+309- What is the role of curiosity and experience in KB Fast-Evo MCTS?
+
+Ans- Curiosity and experience are metrics used to calculate knowledge changes, which influence the predicted end-game reward.
+
+(------------------------------------------------------------------------)
+
 
