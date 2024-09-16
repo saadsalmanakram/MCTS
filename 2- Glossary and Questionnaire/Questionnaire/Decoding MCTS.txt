@@ -1752,5 +1752,11 @@ Ans- MCTS is used for strategic actions, followed by adversarial search for lowe
 
 (-------------------------------------------------------------------------)
 
+292- What is Temporal Difference (TD) learning in reinforcement learning?
+
+Ans- TD learning is a method where predictions about future rewards are updated based on the difference between predicted and actual rewards.
+
+(-------------------------------------------------------------------------)
+
 
 
