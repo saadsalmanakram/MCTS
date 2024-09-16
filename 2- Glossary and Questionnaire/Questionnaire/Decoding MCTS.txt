@@ -1902,4 +1902,17 @@ Ans- Instead of selection and simulation, RHEA evolves action sequences, and onl
 
 (------------------------------------------------------------------------)
 
+317- What is hybridization in the context of MCTS and RHEA?
+
+Ans- Hybridization combines MCTS and RHEA, like running RHEA with rollouts or switching to MCTS after RHEA for alternative paths.
+
+(------------------------------------------------------------------------)
+
+318- What did Baier and Cowling (2018) propose in Evolutionary MCTS (EMCTS)?
+
+Ans- They introduced a variant where nodes contain sequences of actions, and rollouts are replaced by evolving these sequences using mutation operators.
+
+(------------------------------------------------------------------------)
+
+
 
