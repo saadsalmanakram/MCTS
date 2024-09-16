@@ -1770,3 +1770,9 @@ Ans- Integrating TD learning helps improve the accuracy of value estimates durin
 
 (-------------------------------------------------------------------------)
 
+295- Describe the TD-UCT Single Backup variant.
+
+Ans- TD-UCT Single Backup assumes that future state values have converged to the final reward of the playout, using the TD error based on the distance to the terminal state.
+
+(-------------------------------------------------------------------------)
+
