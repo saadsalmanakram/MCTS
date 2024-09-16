@@ -1644,6 +1644,12 @@ Ans- MCTS was the first algorithm to significantly improve computer Go, later co
 
 (-------------------------------------------------------------------------)
 
+274- What are the two key ML models used in the AlphaGo approach?
+
+Ans- The policy function and the value function, both modeled with deep convolutional networks.
+
+(-------------------------------------------------------------------------)
+
 
 
 
