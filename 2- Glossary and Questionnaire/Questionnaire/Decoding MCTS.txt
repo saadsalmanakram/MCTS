@@ -1818,4 +1818,10 @@ Ans- TD learning can adapt the policy used in simulations by evaluating states m
 
 (------------------------------------------------------------------------)
 
+303- Why is evolving heuristic functions beneficial in MCTS?
+
+Ans- Evolving heuristic functions can improve performance by providing more effective evaluation criteria, though it is time-consuming and best done offline.
+
+(------------------------------------------------------------------------)
+
 
