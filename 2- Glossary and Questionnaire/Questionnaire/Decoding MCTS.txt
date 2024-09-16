@@ -1878,4 +1878,10 @@ Ans- A heuristic function that could potentially perform better than UCB in gene
 
 (------------------------------------------------------------------------)
 
+313- What components did Bravi et al. (2016) use in their evolved heuristic for MCTS?
+
+Ans- They used constants, unary and binary functions, and variables like child visits and parent visits in a syntax tree representation.
+
+(------------------------------------------------------------------------)
+
 
