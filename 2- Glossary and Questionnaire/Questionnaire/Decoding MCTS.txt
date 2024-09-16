@@ -1746,7 +1746,11 @@ Ans- It selects moves either by Boltzmann distribution over heuristic evaluation
 
 (-------------------------------------------------------------------------)
 
+291- What two-level hierarchical approach is used in Barriga’s RTS framework with MCTS?
 
+Ans- MCTS is used for strategic actions, followed by adversarial search for lower-level tactical decisions.
+
+(-------------------------------------------------------------------------)
 
 
 
