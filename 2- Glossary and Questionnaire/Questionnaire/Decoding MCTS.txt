@@ -1860,4 +1860,16 @@ Ans- Curiosity and experience are metrics used to calculate knowledge changes, w
 
 (------------------------------------------------------------------------)
 
+310- What game did Pettit and Helmbold (2012) apply MCTS/UCT and Evolution Strategies to optimize?
+
+Ans- They applied it to the abstract strategy game Hex to optimize the default policy.
+
+(------------------------------------------------------------------------)
+
+311- What patterns did Pettit and Helmbold evolve in their system for MCTS simulations?
+
+Ans- Local board patterns and move selection strategies, such as uniform local and tenuki, which improved simulation performance.
+
+(------------------------------------------------------------------------)
+
 
