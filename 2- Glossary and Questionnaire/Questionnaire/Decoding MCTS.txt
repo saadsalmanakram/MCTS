@@ -1848,4 +1848,10 @@ Ans- An extension of Lucas et al.'s work that dynamically evolves features and b
 
 (------------------------------------------------------------------------)
 
+308- How does KB Fast-Evo MCTS handle the game environment in GVGP?
+
+Ans- It dynamically extracts features from game states and evolves them to bias MCTS decisions.
+
+(------------------------------------------------------------------------)
+
 
