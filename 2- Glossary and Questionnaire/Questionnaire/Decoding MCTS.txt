@@ -1734,7 +1734,11 @@ Ans- They used a value network for early cutoff after the opponent’s turn and 
 
 (-------------------------------------------------------------------------)
 
+289- How was MCTS combined with shallow neural networks in the game Dots-and-Boxes?
 
+Ans- A shallow neural network predicts winning chances, guiding the simulation phase of MCTS.
+
+(-------------------------------------------------------------------------)
 
 
 
