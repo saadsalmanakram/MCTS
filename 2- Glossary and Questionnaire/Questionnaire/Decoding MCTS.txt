@@ -2022,6 +2022,12 @@ Ans- It assigns a separate MCTS tree for each vehicle, allowing synchronized dec
 
 (-------------------------------------------------------------------------)
 
+337- What are macro-actions in MCTS for vehicle routing?
+
+Ans- They represent higher-level decisions that reduce the search space, improving efficiency.
+
+(-------------------------------------------------------------------------)
+
 
 
 
