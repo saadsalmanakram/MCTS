@@ -1914,5 +1914,16 @@ Ans- They introduced a variant where nodes contain sequences of actions, and rol
 
 (------------------------------------------------------------------------)
 
+319- What is one of the primary domains of MCTS application beyond games?
+
+Ans- Automated planning, often formulated as Markov Decision Processes (MDP) or Partially Observable MDP (POMDP).
+
+(------------------------------------------------------------------------)
+
+320- Can you give an example of MCTS being used in combinatorial optimization?
+
+Ans- MCTS has been used to optimize Horner’s method for polynomial evaluation and low-latency communication.
+
+(------------------------------------------------------------------------)
 
 
