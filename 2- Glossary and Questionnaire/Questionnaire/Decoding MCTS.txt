@@ -1872,4 +1872,10 @@ Ans- Local board patterns and move selection strategies, such as uniform local a
 
 (------------------------------------------------------------------------)
 
+312- What did Bravi et al. (2016) aim to evolve in MCTS's tree policy?
+
+Ans- A heuristic function that could potentially perform better than UCB in general video game playing (GVGP).
+
+(------------------------------------------------------------------------)
+
 
