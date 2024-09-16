@@ -1932,4 +1932,11 @@ Ans- Techniques like state-action pair abstractions and dynamic time allocation 
 
 (------------------------------------------------------------------------)
 
+322- How does PROST enhance MCTS for probabilistic planning?
+
+Ans- PROST incorporates action pruning, search space modification, and Q-value initialization using iterative deepening search (IDS).
+
+(------------------------------------------------------------------------)
+
+
 
