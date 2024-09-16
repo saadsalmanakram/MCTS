@@ -1968,6 +1968,12 @@ Ans- It is a hierarchical MCTS model for emergency planning, where plans can be 
 
 (------------------------------------------------------------------------)
 
+328- What is the 3N-MCTS approach?
+
+Ans- It uses three neural networks—Rollout policy network, In-score filter network, and Expansion policy network—integrated with MCTS.
+
+(------------------------------------------------------------------------)
+
 
 
 
