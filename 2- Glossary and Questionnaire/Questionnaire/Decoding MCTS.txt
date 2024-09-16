@@ -1686,6 +1686,18 @@ Ans- Rollouts help estimate the result of a game from a leaf node during the sea
 
 (-------------------------------------------------------------------------)
 
+281- What is the “Big Win Strategy” and how does it relate to MCTS?
+
+Ans- It's an AlphaGo-inspired approach for Othello that uses an additional neural network to estimate point differences and rewards during MCTS.
+
+(-------------------------------------------------------------------------)
+
+282- What enhancement did MoHex-CNN bring to the game of Hex?
+
+Ans- It introduced a deep convolutional network as a policy network combined with MCTS, improving the previous state-of-the-art agent.
+
+(-------------------------------------------------------------------------)
+
 
 
 
