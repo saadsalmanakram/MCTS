@@ -1842,4 +1842,10 @@ Ans- Weights are assigned to features in the state space to bias actions towards
 
 (------------------------------------------------------------------------)
 
+307- What is KB Fast-Evo MCTS introduced by Perez et al. (2014)?
+
+Ans- An extension of Lucas et al.'s work that dynamically evolves features and biases MCTS simulations using an evolving knowledge base.
+
+(------------------------------------------------------------------------)
+
 
