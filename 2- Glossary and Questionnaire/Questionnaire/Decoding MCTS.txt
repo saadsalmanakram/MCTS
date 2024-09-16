@@ -1674,6 +1674,12 @@ Ans- AlphaGo uses supervised learning initially, while AlphaZero relies purely o
 
 (-------------------------------------------------------------------------)
 
+279- What improvement did AlphaZero bring to the MCTS + ML approach?
+
+Ans- AlphaZero eliminated the need for supervised learning, optimizing purely through self-play reinforcement learning.
+
+(-------------------------------------------------------------------------)
+
 
 
 
