@@ -1698,6 +1698,12 @@ Ans- It introduced a deep convolutional network as a policy network combined wit
 
 (-------------------------------------------------------------------------)
 
+283- How does the DeepEzo approach differ from AlphaGo?
+
+Ans- DeepEzo trains its policy function from the results of agents that don’t use a policy function, rather than through continuous self-improvement.
+
+(-------------------------------------------------------------------------)
+
 
 
 
