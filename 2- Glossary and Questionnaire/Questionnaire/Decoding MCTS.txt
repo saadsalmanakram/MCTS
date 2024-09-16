@@ -1782,3 +1782,9 @@ Ans- This variant simplifies the TD-UCT approach by setting specific parameters 
 
 (------------------------------------------------------------------------)
 
+297- Explain the TD-UCT Merged Bootstrapping variant.
+
+Ans- TD-UCT Merged Bootstrapping updates state values based on both the immediate reward and the value of the next state, without assuming convergence to the final reward.
+
+(------------------------------------------------------------------------)
+
