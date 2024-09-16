@@ -1926,4 +1926,10 @@ Ans- MCTS has been used to optimize Horner’s method for polynomial evaluation 
 
 (------------------------------------------------------------------------)
 
+321- What simplification methods are used in MCTS for tackling large planning problems?
+
+Ans- Techniques like state-action pair abstractions and dynamic time allocation strategies, as seen in ASAP-UCT.
+
+(------------------------------------------------------------------------)
+
 
