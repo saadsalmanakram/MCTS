@@ -2028,6 +2028,18 @@ Ans- They represent higher-level decisions that reduce the search space, improvi
 
 (-------------------------------------------------------------------------)
 
+338- Why replace the UCT formula in MCTS for vehicle routing?
+
+Ans- Custom solution assessment formulas better distinguish between good and poor routes for CVRP.
+
+(-------------------------------------------------------------------------)
+
+339- How did Sabar and Kendall (2015) test their MCTS with heuristics framework?
+
+Ans- They tested it across six different domains and found it competitive with state-of-the-art methods.
+
+(-------------------------------------------------------------------------)
+
 
 
 
