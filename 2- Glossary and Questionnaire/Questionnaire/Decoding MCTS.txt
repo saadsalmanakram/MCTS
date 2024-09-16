@@ -2016,7 +2016,11 @@ Ans- It involves planning routes for vehicles to deliver goods while considering
 
 (-------------------------------------------------------------------------)
 
+336- What is the benefit of problem factorization in MCTS for CVRP?
 
+Ans- It assigns a separate MCTS tree for each vehicle, allowing synchronized decisions.
+
+(-------------------------------------------------------------------------)
 
 
 
