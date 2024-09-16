@@ -1884,4 +1884,16 @@ Ans- They used constants, unary and binary functions, and variables like child v
 
 (------------------------------------------------------------------------)
 
+314- How did Bravi et al. (2017) extend their previous work on heuristic functions in MCTS?
+
+Ans- They added game-specific variables to evolve heuristic functions, yielding insights about game-specific exploration-exploitation trade-offs.
+
+(------------------------------------------------------------------------)
+
+315- What is the Rolling Horizon Evolutionary Algorithm (RHEA)?
+
+Ans- RHEA is an evolutionary algorithm that evolves sequences of actions for decision-making, commonly used as an alternative to MCTS.
+
+(------------------------------------------------------------------------)
+
 
