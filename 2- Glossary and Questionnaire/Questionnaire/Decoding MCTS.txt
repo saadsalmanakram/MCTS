@@ -1830,4 +1830,10 @@ Ans- To optimize the tree policy and default simulation policy using evolutionar
 
 (------------------------------------------------------------------------)
 
+305- What approach did Lucas et al. (2014) introduce for MCTS policy optimization?
+
+Ans- They used a weight vector to influence both tree and default policies, optimized via a (1 + 1) Evolution Strategy (ES).
+
+(------------------------------------------------------------------------)
+
 
