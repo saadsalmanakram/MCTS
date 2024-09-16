@@ -1680,6 +1680,12 @@ Ans- AlphaZero eliminated the need for supervised learning, optimizing purely th
 
 (-------------------------------------------------------------------------)
 
+280- What is the role of the rollout in AlphaGo’s MCTS?
+
+Ans- Rollouts help estimate the result of a game from a leaf node during the search phase.
+
+(-------------------------------------------------------------------------)
+
 
 
 
