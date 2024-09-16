@@ -1662,6 +1662,12 @@ Ans- It guides action selection by providing probabilities for each action in a 
 
 (-------------------------------------------------------------------------)
 
+277- How was AlphaGo's policy function initially trained?
+
+Ans- It was trained through supervised learning over a dataset of expert human moves.
+
+(-------------------------------------------------------------------------)
+
 
 
 
