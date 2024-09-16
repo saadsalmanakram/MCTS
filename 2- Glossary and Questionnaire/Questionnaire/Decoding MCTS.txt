@@ -1638,6 +1638,12 @@ Ans- Biasing the UCT formula with human-trained neural networks helps MCTS bette
 
 (-------------------------------------------------------------------------)
 
+273- What major breakthrough did MCTS achieve in the game of Go?
+
+Ans- MCTS was the first algorithm to significantly improve computer Go, later combined with ML in AlphaGo to defeat professional players.
+
+(-------------------------------------------------------------------------)
+
 
 
 
