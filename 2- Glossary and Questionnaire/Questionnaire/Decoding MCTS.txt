@@ -1956,6 +1956,18 @@ Ans- Hierarchical MCTS decomposes tasks into subtasks, helping manage large sear
 
 (------------------------------------------------------------------------)
 
+326- How is MCTS utilized in multi-robot decentralized planning?
+
+Ans- Each robot maintains its own search tree, and the trees are periodically shared, updating joint policies for real-time online replanning.
+
+(------------------------------------------------------------------------)
+
+327- What is the k-Rejection MDP model in MCTS?
+
+Ans- It is a hierarchical MCTS model for emergency planning, where plans can be rejected under certain conditions.
+
+(------------------------------------------------------------------------)
+
 
 
 
