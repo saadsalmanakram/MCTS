@@ -1800,4 +1800,9 @@ Ans- The TD(λ) algorithm updates state values based on immediate rewards and fu
 
 (------------------------------------------------------------------------)
 
+300- What are some advantages of using TD learning with MCTS?
+
+Ans- Advantages include improved value estimates, faster convergence, better generalization, and the ability to handle complex states that may not be well-represented in simulations.
+
+(------------------------------------------------------------------------)
 
