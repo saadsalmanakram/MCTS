@@ -1710,6 +1710,18 @@ Ans- They developed networks that dynamically learn the komi (handicap) instead 
 
 (-------------------------------------------------------------------------)
 
+285- How is the policy network used differently in Gomoku compared to AlphaGo?
+
+Ans- In Gomoku, only one neural network is used to predict the game’s outcome, trained using Adaptive Dynamic Programming (ADP).
+
+(-------------------------------------------------------------------------)
+
+286- What is the role of neural networks in RTS games like StarCraft when combined with MCTS?
+
+Ans- Neural networks are used for strategic-level search decisions, while lower-level tactical decisions are handled by adversarial search.
+
+(-------------------------------------------------------------------------)
+
 
 
 
