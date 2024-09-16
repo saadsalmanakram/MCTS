@@ -1992,6 +1992,31 @@ Ans- It drastically reduces combinatorial complexity by guiding the search throu
 
 (-------------------------------------------------------------------------)
 
+332- How is MCTS applied in scheduling problems?
+
+Ans- MCTS is combined with heuristics to generate initial solutions and test alternative scheduling branches.
+
+(-------------------------------------------------------------------------)
+
+333- What is the Proactive UCT (ProUCT) method?
+
+Ans- It integrates heuristic solvers with UCT to handle dynamic events in scheduling.
+
+(-------------------------------------------------------------------------)
+
+334- What is a Risk-Aware Project Scheduling Problem (RAPSP)?
+
+Ans- A problem model that incorporates risk management in project scheduling.
+
+(-------------------------------------------------------------------------)
+
+335- What is Capacitated Vehicle Routing Problem (CVRP)?
+
+Ans- It involves planning routes for vehicles to deliver goods while considering capacity and route optimization.
+
+(-------------------------------------------------------------------------)
+
+
 
 
 
