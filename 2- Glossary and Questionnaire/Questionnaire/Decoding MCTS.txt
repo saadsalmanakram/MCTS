@@ -1722,6 +1722,12 @@ Ans- Neural networks are used for strategic-level search decisions, while lower-
 
 (-------------------------------------------------------------------------)
 
+287- What is chance event bucketing, and how is it used in Hearthstone with MCTS?
+
+Ans- It groups random outcomes into buckets during simulations to reduce the branching factor in MCTS.
+
+(-------------------------------------------------------------------------)
+
 
 
 
