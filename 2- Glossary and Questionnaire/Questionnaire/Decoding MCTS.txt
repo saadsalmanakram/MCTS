@@ -1938,5 +1938,17 @@ Ans- PROST incorporates action pruning, search space modification, and Q-value i
 
 (------------------------------------------------------------------------)
 
+323- What is the modification introduced in Convex Hull Monte Carlo Tree Search (CHMCTS)?
+
+Ans- CHMCTS includes multi-objective optimization with multi-dimensional reward vectors, adapting the standard UCT formula.
+
+(------------------------------------------------------------------------)
+
+324- How is MCTS applied to interplanetary trajectory planning?
+
+Ans- MCTS for trajectory planning introduces a unique contraction phase, which prunes subtrees with terminal states.
+
+(------------------------------------------------------------------------)
+
 
 
