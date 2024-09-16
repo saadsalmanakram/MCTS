@@ -1896,4 +1896,10 @@ Ans- RHEA is an evolutionary algorithm that evolves sequences of actions for dec
 
 (------------------------------------------------------------------------)
 
+316- How does RHEA differ from MCTS in decision-making?
+
+Ans- Instead of selection and simulation, RHEA evolves action sequences, and only the first action from the best sequence is executed in the game.
+
+(------------------------------------------------------------------------)
+
 
