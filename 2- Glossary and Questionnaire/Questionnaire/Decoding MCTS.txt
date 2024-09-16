@@ -1740,6 +1740,12 @@ Ans- A shallow neural network predicts winning chances, guiding the simulation p
 
 (-------------------------------------------------------------------------)
 
+290- How does pseudo-roulette selection work in Hearthstone’s MCTS algorithm?
+
+Ans- It selects moves either by Boltzmann distribution over heuristic evaluations or chooses the best move with a specific probability.
+
+(-------------------------------------------------------------------------)
+
 
 
 
