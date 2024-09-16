@@ -1668,6 +1668,12 @@ Ans- It was trained through supervised learning over a dataset of expert human m
 
 (-------------------------------------------------------------------------)
 
+278- What is the main difference between AlphaGo and AlphaZero in training?
+
+Ans- AlphaGo uses supervised learning initially, while AlphaZero relies purely on reinforcement learning via self-play.
+
+(-------------------------------------------------------------------------)
+
 
 
 
