@@ -1656,6 +1656,14 @@ Ans- It approximates the outcome of the game from a given state, helping predict
 
 (-------------------------------------------------------------------------)
 
+276- What does the policy function do in MCTS when combined with ML?
+
+Ans- It guides action selection by providing probabilities for each action in a given state.
+
+(-------------------------------------------------------------------------)
+
+
+
 
 
 
