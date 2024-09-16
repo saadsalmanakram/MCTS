@@ -1788,3 +1788,16 @@ Ans- TD-UCT Merged Bootstrapping updates state values based on both the immediat
 
 (------------------------------------------------------------------------)
 
+298- How does TD learning affect the selection and backpropagation phases in MCTS?
+
+Ans- TD learning modifies the backpropagation phase by updating values using TD estimates and affects the selection phase by using a weighted average of TD and UCT estimates.
+
+(------------------------------------------------------------------------)
+
+299- What role does the TD(λ) algorithm play in MCTS?
+
+Ans- The TD(λ) algorithm updates state values based on immediate rewards and future state values, integrating eligibility traces to refine value estimates during the backpropagation phase.
+
+(------------------------------------------------------------------------)
+
+
