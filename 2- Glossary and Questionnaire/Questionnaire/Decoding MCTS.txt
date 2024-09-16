@@ -1950,5 +1950,12 @@ Ans- MCTS for trajectory planning introduces a unique contraction phase, which p
 
 (------------------------------------------------------------------------)
 
+325- What is the advantage of hierarchical MCTS in planning?
+
+Ans- Hierarchical MCTS decomposes tasks into subtasks, helping manage large search spaces and overcoming the curse of dimensionality.
+
+(------------------------------------------------------------------------)
+
+
 
 
