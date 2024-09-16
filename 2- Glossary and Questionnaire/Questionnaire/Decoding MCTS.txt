@@ -1704,6 +1704,12 @@ Ans- DeepEzo trains its policy function from the results of agents that don’t 
 
 (-------------------------------------------------------------------------)
 
+284- What innovation did Yang et al. bring to AlphaGo's komi setup in Go?
+
+Ans- They developed networks that dynamically learn the komi (handicap) instead of using a fixed value.
+
+(-------------------------------------------------------------------------)
+
 
 
 
