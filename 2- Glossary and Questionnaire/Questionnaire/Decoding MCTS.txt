@@ -1728,6 +1728,12 @@ Ans- It groups random outcomes into buckets during simulations to reduce the bra
 
 (-------------------------------------------------------------------------)
 
+288- What modification did Świechowski et al. introduce in MCTS for Hearthstone?
+
+Ans- They used a value network for early cutoff after the opponent’s turn and biased simulations using a policy network.
+
+(-------------------------------------------------------------------------)
+
 
 
 
